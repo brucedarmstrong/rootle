@@ -226,8 +226,7 @@ function buildShareText() {
   }
 
   const challengeUrl = `https://brucearmstrong.net/rootle/?puzzle=${puzzle.id}`;
-  const callout = state.solved ? 'Can you beat me?' : 'Think you can do better?';
-  return `Rootle #${puzzle.id} (${score})\n\n${grid}\n${callout}\n${challengeUrl}`;
+  return `Rootle #${puzzle.id} (${score})\n\n${grid}\n${challengeUrl}`;
 }
 
 function renderShareGrid() {
