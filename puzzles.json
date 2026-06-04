@@ -543,55 +543,6 @@
   {
     "id": 24,
     "date": "2026-06-12",
-    "answer": "DENIM",
-    "hops": [
-      {
-        "language": "Gaulish",
-        "form": "nemo",
-        "meaning": "sanctuary, sacred grove"
-      },
-      {
-        "language": "Latin",
-        "form": "Nemausus",
-        "meaning": "the town later called Nîmes"
-      },
-      {
-        "language": "French",
-        "form": "serge de Nîmes",
-        "meaning": "serge cloth from Nîmes"
-      }
-    ]
-  },
-  {
-    "id": 25,
-    "date": "2026-06-13",
-    "answer": "EXCHEQUER",
-    "hops": [
-      {
-        "language": "Persian",
-        "form": "shah",
-        "meaning": "king, the principal chess piece"
-      },
-      {
-        "language": "Arabic",
-        "form": "shah",
-        "meaning": "king (in chess)"
-      },
-      {
-        "language": "Medieval Latin",
-        "form": "scaccarium",
-        "meaning": "chess board"
-      },
-      {
-        "language": "Old French",
-        "form": "eschequier",
-        "meaning": "chessboard; a check at chess"
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "date": "2026-06-14",
     "answer": "GENUINE",
     "hops": [
       {
@@ -612,8 +563,8 @@
     ]
   },
   {
-    "id": 27,
-    "date": "2026-06-15",
+    "id": 25,
+    "date": "2026-06-13",
     "answer": "GYMNASIUM",
     "hops": [
       {
@@ -639,8 +590,8 @@
     ]
   },
   {
-    "id": 28,
-    "date": "2026-06-16",
+    "id": 26,
+    "date": "2026-06-14",
     "answer": "HELICOPTER",
     "hops": [
       {
@@ -661,8 +612,8 @@
     ]
   },
   {
-    "id": 29,
-    "date": "2026-06-17",
+    "id": 27,
+    "date": "2026-06-15",
     "answer": "HYSTERIA",
     "hops": [
       {
@@ -683,8 +634,8 @@
     ]
   },
   {
-    "id": 30,
-    "date": "2026-06-18",
+    "id": 28,
+    "date": "2026-06-16",
     "answer": "IDIOT",
     "hops": [
       {
@@ -710,8 +661,8 @@
     ]
   },
   {
-    "id": 31,
-    "date": "2026-06-19",
+    "id": 29,
+    "date": "2026-06-17",
     "answer": "INAUGURATE",
     "hops": [
       {
@@ -737,30 +688,8 @@
     ]
   },
   {
-    "id": 32,
-    "date": "2026-06-20",
-    "answer": "INFLUENCE",
-    "hops": [
-      {
-        "language": "Latin",
-        "form": "influere",
-        "meaning": "to flow into, stream in, pour in"
-      },
-      {
-        "language": "Medieval Latin",
-        "form": "influentia",
-        "meaning": "a flowing in (of starlight upon fate)"
-      },
-      {
-        "language": "Old French",
-        "form": "influence",
-        "meaning": "emanation from the stars shaping destiny"
-      }
-    ]
-  },
-  {
-    "id": 33,
-    "date": "2026-06-21",
+    "id": 30,
+    "date": "2026-06-18",
     "answer": "INOCULATE",
     "hops": [
       {
@@ -781,8 +710,8 @@
     ]
   },
   {
-    "id": 34,
-    "date": "2026-06-22",
+    "id": 31,
+    "date": "2026-06-19",
     "answer": "INSULT",
     "hops": [
       {
@@ -808,8 +737,8 @@
     ]
   },
   {
-    "id": 35,
-    "date": "2026-06-23",
+    "id": 32,
+    "date": "2026-06-20",
     "answer": "ISLAND",
     "hops": [
       {
@@ -830,8 +759,8 @@
     ]
   },
   {
-    "id": 36,
-    "date": "2026-06-24",
+    "id": 33,
+    "date": "2026-06-21",
     "answer": "JUBILEE",
     "hops": [
       {
@@ -857,30 +786,8 @@
     ]
   },
   {
-    "id": 37,
-    "date": "2026-06-25",
-    "answer": "LACONIC",
-    "hops": [
-      {
-        "language": "Greek",
-        "form": "Lakon",
-        "meaning": "a person from Laconia, the Spartan region"
-      },
-      {
-        "language": "Greek",
-        "form": "Lakonikos",
-        "meaning": "Laconian, of Sparta"
-      },
-      {
-        "language": "Latin",
-        "form": "Laconicus",
-        "meaning": "of Laconia"
-      }
-    ]
-  },
-  {
-    "id": 38,
-    "date": "2026-06-26",
+    "id": 34,
+    "date": "2026-06-22",
     "answer": "LUNATIC",
     "hops": [
       {
@@ -901,8 +808,8 @@
     ]
   },
   {
-    "id": 39,
-    "date": "2026-06-27",
+    "id": 35,
+    "date": "2026-06-23",
     "answer": "MALARIA",
     "hops": [
       {
@@ -923,30 +830,8 @@
     ]
   },
   {
-    "id": 40,
-    "date": "2026-06-28",
-    "answer": "MELANCHOLY",
-    "hops": [
-      {
-        "language": "Greek",
-        "form": "melankholia",
-        "meaning": "excess of black bile; sadness"
-      },
-      {
-        "language": "Late Latin",
-        "form": "melancholia",
-        "meaning": "black bile; depression"
-      },
-      {
-        "language": "Old French",
-        "form": "melancolie",
-        "meaning": "black bile; ill temper, anger"
-      }
-    ]
-  },
-  {
-    "id": 41,
-    "date": "2026-06-29",
+    "id": 36,
+    "date": "2026-06-24",
     "answer": "PARADISE",
     "hops": [
       {
@@ -972,8 +857,8 @@
     ]
   },
   {
-    "id": 42,
-    "date": "2026-06-30",
+    "id": 37,
+    "date": "2026-06-25",
     "answer": "PARLIAMENT",
     "hops": [
       {
@@ -994,8 +879,8 @@
     ]
   },
   {
-    "id": 43,
-    "date": "2026-07-01",
+    "id": 38,
+    "date": "2026-06-26",
     "answer": "PLANET",
     "hops": [
       {
@@ -1021,8 +906,8 @@
     ]
   },
   {
-    "id": 44,
-    "date": "2026-07-02",
+    "id": 39,
+    "date": "2026-06-27",
     "answer": "SERENDIPITY",
     "hops": [
       {
@@ -1043,8 +928,8 @@
     ]
   },
   {
-    "id": 45,
-    "date": "2026-07-03",
+    "id": 40,
+    "date": "2026-06-28",
     "answer": "SKELETON",
     "hops": [
       {
@@ -1070,8 +955,8 @@
     ]
   },
   {
-    "id": 46,
-    "date": "2026-07-04",
+    "id": 41,
+    "date": "2026-06-29",
     "answer": "SLOGAN",
     "hops": [
       {
@@ -1092,8 +977,8 @@
     ]
   },
   {
-    "id": 47,
-    "date": "2026-07-05",
+    "id": 42,
+    "date": "2026-06-30",
     "answer": "SOLDIER",
     "hops": [
       {
@@ -1119,8 +1004,8 @@
     ]
   },
   {
-    "id": 48,
-    "date": "2026-07-06",
+    "id": 43,
+    "date": "2026-07-01",
     "answer": "SYCOPHANT",
     "hops": [
       {
@@ -1146,8 +1031,8 @@
     ]
   },
   {
-    "id": 49,
-    "date": "2026-07-07",
+    "id": 44,
+    "date": "2026-07-02",
     "answer": "TALENT",
     "hops": [
       {
@@ -1173,8 +1058,8 @@
     ]
   },
   {
-    "id": 50,
-    "date": "2026-07-08",
+    "id": 45,
+    "date": "2026-07-03",
     "answer": "TYPHOON",
     "hops": [
       {
@@ -1200,8 +1085,8 @@
     ]
   },
   {
-    "id": 51,
-    "date": "2026-07-09",
+    "id": 46,
+    "date": "2026-07-04",
     "answer": "VACCINE",
     "hops": [
       {
@@ -1222,8 +1107,8 @@
     ]
   },
   {
-    "id": 52,
-    "date": "2026-07-10",
+    "id": 47,
+    "date": "2026-07-05",
     "answer": "VANDAL",
     "hops": [
       {
@@ -1244,8 +1129,8 @@
     ]
   },
   {
-    "id": 53,
-    "date": "2026-07-11",
+    "id": 48,
+    "date": "2026-07-06",
     "answer": "WITCH",
     "hops": [
       {
@@ -1266,8 +1151,8 @@
     ]
   },
   {
-    "id": 54,
-    "date": "2026-07-12",
+    "id": 49,
+    "date": "2026-07-07",
     "answer": "ZERO",
     "hops": [
       {
@@ -1293,8 +1178,8 @@
     ]
   },
   {
-    "id": 55,
-    "date": "2026-07-13",
+    "id": 50,
+    "date": "2026-07-08",
     "answer": "SUGAR",
     "hops": [
       {
@@ -1320,8 +1205,8 @@
     ]
   },
   {
-    "id": 56,
-    "date": "2026-07-14",
+    "id": 51,
+    "date": "2026-07-09",
     "answer": "OSTRACIZE",
     "hops": [
       {
@@ -1347,30 +1232,8 @@
     ]
   },
   {
-    "id": 57,
-    "date": "2026-07-15",
-    "answer": "TATTOO",
-    "hops": [
-      {
-        "language": "Proto-Germanic",
-        "form": "*to",
-        "meaning": "to, shut"
-      },
-      {
-        "language": "Dutch",
-        "form": "taptoe",
-        "meaning": "shut the tap (close the casks)"
-      },
-      {
-        "language": "Middle English",
-        "form": "tap-to",
-        "meaning": "signal sending soldiers to quarters"
-      }
-    ]
-  },
-  {
-    "id": 58,
-    "date": "2026-07-16",
+    "id": 52,
+    "date": "2026-07-10",
     "answer": "ASSASSIN",
     "hops": [
       {
@@ -1391,8 +1254,8 @@
     ]
   },
   {
-    "id": 59,
-    "date": "2026-07-17",
+    "id": 53,
+    "date": "2026-07-11",
     "answer": "GOSSIP",
     "hops": [
       {
@@ -1413,8 +1276,8 @@
     ]
   },
   {
-    "id": 60,
-    "date": "2026-07-18",
+    "id": 54,
+    "date": "2026-07-12",
     "answer": "CHECKMATE",
     "hops": [
       {
@@ -1435,8 +1298,8 @@
     ]
   },
   {
-    "id": 61,
-    "date": "2026-07-19",
+    "id": 55,
+    "date": "2026-07-13",
     "answer": "TARIFF",
     "hops": [
       {
@@ -1462,8 +1325,8 @@
     ]
   },
   {
-    "id": 62,
-    "date": "2026-07-20",
+    "id": 56,
+    "date": "2026-07-14",
     "answer": "ROBOT",
     "hops": [
       {
@@ -1484,8 +1347,8 @@
     ]
   },
   {
-    "id": 63,
-    "date": "2026-07-21",
+    "id": 57,
+    "date": "2026-07-15",
     "answer": "NOSTRIL",
     "hops": [
       {
@@ -1506,8 +1369,8 @@
     ]
   },
   {
-    "id": 64,
-    "date": "2026-07-22",
+    "id": 58,
+    "date": "2026-07-16",
     "answer": "ADMIRAL",
     "hops": [
       {
@@ -1528,8 +1391,8 @@
     ]
   },
   {
-    "id": 65,
-    "date": "2026-07-23",
+    "id": 59,
+    "date": "2026-07-17",
     "answer": "ZENITH",
     "hops": [
       {
@@ -1555,8 +1418,8 @@
     ]
   },
   {
-    "id": 66,
-    "date": "2026-07-24",
+    "id": 60,
+    "date": "2026-07-18",
     "answer": "NADIR",
     "hops": [
       {
@@ -1577,8 +1440,8 @@
     ]
   },
   {
-    "id": 67,
-    "date": "2026-07-25",
+    "id": 61,
+    "date": "2026-07-19",
     "answer": "CIPHER",
     "hops": [
       {
@@ -1604,8 +1467,8 @@
     ]
   },
   {
-    "id": 68,
-    "date": "2026-07-26",
+    "id": 62,
+    "date": "2026-07-20",
     "answer": "AVERAGE",
     "hops": [
       {
@@ -1626,8 +1489,8 @@
     ]
   },
   {
-    "id": 69,
-    "date": "2026-07-27",
+    "id": 63,
+    "date": "2026-07-21",
     "answer": "ARSENAL",
     "hops": [
       {
@@ -1648,8 +1511,8 @@
     ]
   },
   {
-    "id": 70,
-    "date": "2026-07-28",
+    "id": 64,
+    "date": "2026-07-22",
     "answer": "CARAVAN",
     "hops": [
       {
@@ -1675,8 +1538,8 @@
     ]
   },
   {
-    "id": 71,
-    "date": "2026-07-29",
+    "id": 65,
+    "date": "2026-07-23",
     "answer": "ESCAPE",
     "hops": [
       {
@@ -1697,8 +1560,8 @@
     ]
   },
   {
-    "id": 72,
-    "date": "2026-07-30",
+    "id": 66,
+    "date": "2026-07-24",
     "answer": "TRIVIAL",
     "hops": [
       {
@@ -1719,8 +1582,8 @@
     ]
   },
   {
-    "id": 73,
-    "date": "2026-07-31",
+    "id": 67,
+    "date": "2026-07-25",
     "answer": "MUSCATEL",
     "hops": [
       {
@@ -1746,8 +1609,8 @@
     ]
   },
   {
-    "id": 74,
-    "date": "2026-08-01",
+    "id": 68,
+    "date": "2026-07-26",
     "answer": "SHERRY",
     "hops": [
       {
@@ -1773,8 +1636,8 @@
     ]
   },
   {
-    "id": 75,
-    "date": "2026-08-02",
+    "id": 69,
+    "date": "2026-07-27",
     "answer": "SEQUIN",
     "hops": [
       {
@@ -1800,8 +1663,8 @@
     ]
   },
   {
-    "id": 76,
-    "date": "2026-08-03",
+    "id": 70,
+    "date": "2026-07-28",
     "answer": "DAMASK",
     "hops": [
       {
@@ -1827,8 +1690,8 @@
     ]
   },
   {
-    "id": 77,
-    "date": "2026-08-04",
+    "id": 71,
+    "date": "2026-07-29",
     "answer": "CRAVAT",
     "hops": [
       {
@@ -1854,52 +1717,8 @@
     ]
   },
   {
-    "id": 78,
-    "date": "2026-08-05",
-    "answer": "OTTOMAN",
-    "hops": [
-      {
-        "language": "Arabic",
-        "form": "'Uthmani",
-        "meaning": "belonging to 'Uthman, a man's name"
-      },
-      {
-        "language": "Italian",
-        "form": "Ottomano",
-        "meaning": "of the Turkish dynasty"
-      },
-      {
-        "language": "French",
-        "form": "Ottoman",
-        "meaning": "of the Ottoman Empire"
-      }
-    ]
-  },
-  {
-    "id": 79,
-    "date": "2026-08-06",
-    "answer": "DIVAN",
-    "hops": [
-      {
-        "language": "Persian",
-        "form": "devan",
-        "meaning": "bundle of written sheets, collection of poems"
-      },
-      {
-        "language": "Arabic",
-        "form": "diwan",
-        "meaning": "book of accounts, then council chamber"
-      },
-      {
-        "language": "Turkish",
-        "form": "divan",
-        "meaning": "council of state, cushioned seat"
-      }
-    ]
-  },
-  {
-    "id": 80,
-    "date": "2026-08-07",
+    "id": 72,
+    "date": "2026-07-30",
     "answer": "MATTRESS",
     "hops": [
       {
@@ -1925,8 +1744,8 @@
     ]
   },
   {
-    "id": 81,
-    "date": "2026-08-08",
+    "id": 73,
+    "date": "2026-07-31",
     "answer": "SYRUP",
     "hops": [
       {
@@ -1947,8 +1766,8 @@
     ]
   },
   {
-    "id": 82,
-    "date": "2026-08-09",
+    "id": 74,
+    "date": "2026-08-01",
     "answer": "CANDY",
     "hops": [
       {
@@ -1974,8 +1793,8 @@
     ]
   },
   {
-    "id": 83,
-    "date": "2026-08-10",
+    "id": 75,
+    "date": "2026-08-02",
     "answer": "ORANGE",
     "hops": [
       {
@@ -2001,8 +1820,8 @@
     ]
   },
   {
-    "id": 84,
-    "date": "2026-08-11",
+    "id": 76,
+    "date": "2026-08-03",
     "answer": "APRICOT",
     "hops": [
       {
@@ -2028,8 +1847,8 @@
     ]
   },
   {
-    "id": 85,
-    "date": "2026-08-12",
+    "id": 77,
+    "date": "2026-08-04",
     "answer": "ARTICHOKE",
     "hops": [
       {
@@ -2055,8 +1874,8 @@
     ]
   },
   {
-    "id": 86,
-    "date": "2026-08-13",
+    "id": 78,
+    "date": "2026-08-05",
     "answer": "SPINACH",
     "hops": [
       {
@@ -2077,8 +1896,8 @@
     ]
   },
   {
-    "id": 87,
-    "date": "2026-08-14",
+    "id": 79,
+    "date": "2026-08-06",
     "answer": "SAFFRON",
     "hops": [
       {
@@ -2099,8 +1918,8 @@
     ]
   },
   {
-    "id": 88,
-    "date": "2026-08-15",
+    "id": 80,
+    "date": "2026-08-07",
     "answer": "COFFEE",
     "hops": [
       {
@@ -2121,8 +1940,8 @@
     ]
   },
   {
-    "id": 89,
-    "date": "2026-08-16",
+    "id": 81,
+    "date": "2026-08-08",
     "answer": "JAR",
     "hops": [
       {
@@ -2148,8 +1967,8 @@
     ]
   },
   {
-    "id": 90,
-    "date": "2026-08-17",
+    "id": 82,
+    "date": "2026-08-09",
     "answer": "COTTON",
     "hops": [
       {
@@ -2170,8 +1989,8 @@
     ]
   },
   {
-    "id": 91,
-    "date": "2026-08-18",
+    "id": 83,
+    "date": "2026-08-10",
     "answer": "MUSLIN",
     "hops": [
       {
@@ -2197,8 +2016,8 @@
     ]
   },
   {
-    "id": 92,
-    "date": "2026-08-19",
+    "id": 84,
+    "date": "2026-08-11",
     "answer": "SATIN",
     "hops": [
       {
@@ -2219,8 +2038,8 @@
     ]
   },
   {
-    "id": 93,
-    "date": "2026-08-20",
+    "id": 85,
+    "date": "2026-08-12",
     "answer": "CHINTZ",
     "hops": [
       {
@@ -2241,8 +2060,8 @@
     ]
   },
   {
-    "id": 94,
-    "date": "2026-08-21",
+    "id": 86,
+    "date": "2026-08-13",
     "answer": "PAJAMAS",
     "hops": [
       {
@@ -2263,8 +2082,8 @@
     ]
   },
   {
-    "id": 95,
-    "date": "2026-08-22",
+    "id": 87,
+    "date": "2026-08-14",
     "answer": "BUNGALOW",
     "hops": [
       {
@@ -2285,8 +2104,8 @@
     ]
   },
   {
-    "id": 96,
-    "date": "2026-08-23",
+    "id": 88,
+    "date": "2026-08-15",
     "answer": "SHAMPOO",
     "hops": [
       {
@@ -2307,8 +2126,8 @@
     ]
   },
   {
-    "id": 97,
-    "date": "2026-08-24",
+    "id": 89,
+    "date": "2026-08-16",
     "answer": "LOOT",
     "hops": [
       {
@@ -2329,8 +2148,8 @@
     ]
   },
   {
-    "id": 98,
-    "date": "2026-08-25",
+    "id": 90,
+    "date": "2026-08-17",
     "answer": "THUG",
     "hops": [
       {
@@ -2356,8 +2175,8 @@
     ]
   },
   {
-    "id": 99,
-    "date": "2026-08-26",
+    "id": 91,
+    "date": "2026-08-18",
     "answer": "JUGGERNAUT",
     "hops": [
       {
@@ -2383,8 +2202,8 @@
     ]
   },
   {
-    "id": 100,
-    "date": "2026-08-27",
+    "id": 92,
+    "date": "2026-08-19",
     "answer": "GURU",
     "hops": [
       {
@@ -2405,8 +2224,8 @@
     ]
   },
   {
-    "id": 101,
-    "date": "2026-08-28",
+    "id": 93,
+    "date": "2026-08-20",
     "answer": "DINGHY",
     "hops": [
       {
@@ -2427,8 +2246,8 @@
     ]
   },
   {
-    "id": 102,
-    "date": "2026-08-29",
+    "id": 94,
+    "date": "2026-08-21",
     "answer": "MANGO",
     "hops": [
       {
@@ -2449,8 +2268,8 @@
     ]
   },
   {
-    "id": 103,
-    "date": "2026-08-30",
+    "id": 95,
+    "date": "2026-08-22",
     "answer": "GINGER",
     "hops": [
       {
@@ -2476,8 +2295,8 @@
     ]
   },
   {
-    "id": 104,
-    "date": "2026-08-31",
+    "id": 96,
+    "date": "2026-08-23",
     "answer": "PEPPER",
     "hops": [
       {
@@ -2503,8 +2322,8 @@
     ]
   },
   {
-    "id": 105,
-    "date": "2026-09-01",
+    "id": 97,
+    "date": "2026-08-24",
     "answer": "RICE",
     "hops": [
       {
@@ -2530,8 +2349,8 @@
     ]
   },
   {
-    "id": 106,
-    "date": "2026-09-02",
+    "id": 98,
+    "date": "2026-08-25",
     "answer": "CINNAMON",
     "hops": [
       {
@@ -2557,8 +2376,8 @@
     ]
   },
   {
-    "id": 107,
-    "date": "2026-09-03",
+    "id": 99,
+    "date": "2026-08-26",
     "answer": "NUTMEG",
     "hops": [
       {
@@ -2584,8 +2403,8 @@
     ]
   },
   {
-    "id": 108,
-    "date": "2026-09-04",
+    "id": 100,
+    "date": "2026-08-27",
     "answer": "TEA",
     "hops": [
       {
@@ -2606,8 +2425,8 @@
     ]
   },
   {
-    "id": 109,
-    "date": "2026-09-05",
+    "id": 101,
+    "date": "2026-08-28",
     "answer": "SOY",
     "hops": [
       {
@@ -2628,8 +2447,8 @@
     ]
   },
   {
-    "id": 110,
-    "date": "2026-09-06",
+    "id": 102,
+    "date": "2026-08-29",
     "answer": "SILK",
     "hops": [
       {
@@ -2650,8 +2469,8 @@
     ]
   },
   {
-    "id": 111,
-    "date": "2026-09-07",
+    "id": 103,
+    "date": "2026-08-30",
     "answer": "PORCELAIN",
     "hops": [
       {
@@ -2677,8 +2496,8 @@
     ]
   },
   {
-    "id": 112,
-    "date": "2026-09-08",
+    "id": 104,
+    "date": "2026-08-31",
     "answer": "KARAOKE",
     "hops": [
       {
@@ -2704,8 +2523,8 @@
     ]
   },
   {
-    "id": 113,
-    "date": "2026-09-09",
+    "id": 105,
+    "date": "2026-09-01",
     "answer": "RICKSHAW",
     "hops": [
       {
@@ -2726,8 +2545,8 @@
     ]
   },
   {
-    "id": 114,
-    "date": "2026-09-10",
+    "id": 106,
+    "date": "2026-09-02",
     "answer": "ZEN",
     "hops": [
       {
@@ -2753,8 +2572,8 @@
     ]
   },
   {
-    "id": 115,
-    "date": "2026-09-11",
+    "id": 107,
+    "date": "2026-09-03",
     "answer": "SAKE",
     "hops": [
       {
@@ -2780,8 +2599,8 @@
     ]
   },
   {
-    "id": 116,
-    "date": "2026-09-12",
+    "id": 108,
+    "date": "2026-09-04",
     "answer": "TARIFF",
     "hops": [
       {
@@ -2807,8 +2626,8 @@
     ]
   },
   {
-    "id": 117,
-    "date": "2026-09-13",
+    "id": 109,
+    "date": "2026-09-05",
     "answer": "ADMIRAL",
     "hops": [
       {
@@ -2829,8 +2648,8 @@
     ]
   },
   {
-    "id": 118,
-    "date": "2026-09-14",
+    "id": 110,
+    "date": "2026-09-06",
     "answer": "ALGORITHM",
     "hops": [
       {
@@ -2851,8 +2670,8 @@
     ]
   },
   {
-    "id": 119,
-    "date": "2026-09-15",
+    "id": 111,
+    "date": "2026-09-07",
     "answer": "ELIXIR",
     "hops": [
       {
@@ -2878,8 +2697,8 @@
     ]
   },
   {
-    "id": 120,
-    "date": "2026-09-16",
+    "id": 112,
+    "date": "2026-09-08",
     "answer": "ALKALI",
     "hops": [
       {
@@ -2900,8 +2719,8 @@
     ]
   },
   {
-    "id": 121,
-    "date": "2026-09-17",
+    "id": 113,
+    "date": "2026-09-09",
     "answer": "ALCHEMY",
     "hops": [
       {
@@ -2927,8 +2746,8 @@
     ]
   },
   {
-    "id": 122,
-    "date": "2026-09-18",
+    "id": 114,
+    "date": "2026-09-10",
     "answer": "BORAX",
     "hops": [
       {
@@ -2954,8 +2773,8 @@
     ]
   },
   {
-    "id": 123,
-    "date": "2026-09-19",
+    "id": 115,
+    "date": "2026-09-11",
     "answer": "GIRAFFE",
     "hops": [
       {
@@ -2976,8 +2795,8 @@
     ]
   },
   {
-    "id": 124,
-    "date": "2026-09-20",
+    "id": 116,
+    "date": "2026-09-12",
     "answer": "JASMINE",
     "hops": [
       {
@@ -2998,8 +2817,8 @@
     ]
   },
   {
-    "id": 125,
-    "date": "2026-09-21",
+    "id": 117,
+    "date": "2026-09-13",
     "answer": "JULEP",
     "hops": [
       {
@@ -3025,8 +2844,8 @@
     ]
   },
   {
-    "id": 126,
-    "date": "2026-09-22",
+    "id": 118,
+    "date": "2026-09-14",
     "answer": "LILAC",
     "hops": [
       {
@@ -3052,8 +2871,8 @@
     ]
   },
   {
-    "id": 127,
-    "date": "2026-09-23",
+    "id": 119,
+    "date": "2026-09-15",
     "answer": "LIME",
     "hops": [
       {
@@ -3074,8 +2893,8 @@
     ]
   },
   {
-    "id": 128,
-    "date": "2026-09-24",
+    "id": 120,
+    "date": "2026-09-16",
     "answer": "LUTE",
     "hops": [
       {
@@ -3096,8 +2915,8 @@
     ]
   },
   {
-    "id": 129,
-    "date": "2026-09-25",
+    "id": 121,
+    "date": "2026-09-17",
     "answer": "MASK",
     "hops": [
       {
@@ -3123,8 +2942,8 @@
     ]
   },
   {
-    "id": 130,
-    "date": "2026-09-26",
+    "id": 122,
+    "date": "2026-09-18",
     "answer": "MUMMY",
     "hops": [
       {
@@ -3150,8 +2969,8 @@
     ]
   },
   {
-    "id": 131,
-    "date": "2026-09-27",
+    "id": 123,
+    "date": "2026-09-19",
     "answer": "MUSLIN",
     "hops": [
       {
@@ -3177,8 +2996,8 @@
     ]
   },
   {
-    "id": 132,
-    "date": "2026-09-28",
+    "id": 124,
+    "date": "2026-09-20",
     "answer": "NABOB",
     "hops": [
       {
@@ -3199,8 +3018,8 @@
     ]
   },
   {
-    "id": 133,
-    "date": "2026-09-29",
+    "id": 125,
+    "date": "2026-09-21",
     "answer": "REAM",
     "hops": [
       {
@@ -3226,8 +3045,8 @@
     ]
   },
   {
-    "id": 134,
-    "date": "2026-09-30",
+    "id": 126,
+    "date": "2026-09-22",
     "answer": "SAFFRON",
     "hops": [
       {
@@ -3248,8 +3067,8 @@
     ]
   },
   {
-    "id": 135,
-    "date": "2026-10-01",
+    "id": 127,
+    "date": "2026-09-23",
     "answer": "SCARLET",
     "hops": [
       {
@@ -3270,8 +3089,8 @@
     ]
   },
   {
-    "id": 136,
-    "date": "2026-10-02",
+    "id": 128,
+    "date": "2026-09-24",
     "answer": "SEQUIN",
     "hops": [
       {
@@ -3297,8 +3116,8 @@
     ]
   },
   {
-    "id": 137,
-    "date": "2026-10-03",
+    "id": 129,
+    "date": "2026-09-25",
     "answer": "SHERBET",
     "hops": [
       {
@@ -3319,8 +3138,8 @@
     ]
   },
   {
-    "id": 138,
-    "date": "2026-10-04",
+    "id": 130,
+    "date": "2026-09-26",
     "answer": "SPINACH",
     "hops": [
       {
@@ -3346,8 +3165,8 @@
     ]
   },
   {
-    "id": 139,
-    "date": "2026-10-05",
+    "id": 131,
+    "date": "2026-09-27",
     "answer": "TALISMAN",
     "hops": [
       {
@@ -3373,8 +3192,8 @@
     ]
   },
   {
-    "id": 140,
-    "date": "2026-10-06",
+    "id": 132,
+    "date": "2026-09-28",
     "answer": "TAMBOURINE",
     "hops": [
       {
@@ -3400,8 +3219,8 @@
     ]
   },
   {
-    "id": 141,
-    "date": "2026-10-07",
+    "id": 133,
+    "date": "2026-09-29",
     "answer": "AMBER",
     "hops": [
       {
@@ -3422,8 +3241,8 @@
     ]
   },
   {
-    "id": 142,
-    "date": "2026-10-08",
+    "id": 134,
+    "date": "2026-09-30",
     "answer": "AZURE",
     "hops": [
       {
@@ -3449,8 +3268,8 @@
     ]
   },
   {
-    "id": 143,
-    "date": "2026-10-09",
+    "id": 135,
+    "date": "2026-10-01",
     "answer": "CAMPHOR",
     "hops": [
       {
@@ -3476,8 +3295,8 @@
     ]
   },
   {
-    "id": 144,
-    "date": "2026-10-10",
+    "id": 136,
+    "date": "2026-10-02",
     "answer": "CRIMSON",
     "hops": [
       {
@@ -3498,8 +3317,8 @@
     ]
   },
   {
-    "id": 145,
-    "date": "2026-10-11",
+    "id": 137,
+    "date": "2026-10-03",
     "answer": "LACQUER",
     "hops": [
       {
@@ -3525,8 +3344,8 @@
     ]
   },
   {
-    "id": 146,
-    "date": "2026-10-12",
+    "id": 138,
+    "date": "2026-10-04",
     "answer": "MOSQUE",
     "hops": [
       {
@@ -3552,8 +3371,8 @@
     ]
   },
   {
-    "id": 147,
-    "date": "2026-10-13",
+    "id": 139,
+    "date": "2026-10-05",
     "answer": "SULTAN",
     "hops": [
       {
@@ -3579,8 +3398,8 @@
     ]
   },
   {
-    "id": 148,
-    "date": "2026-10-14",
+    "id": 140,
+    "date": "2026-10-06",
     "answer": "CALIBER",
     "hops": [
       {
@@ -3606,8 +3425,8 @@
     ]
   },
   {
-    "id": 149,
-    "date": "2026-10-15",
+    "id": 141,
+    "date": "2026-10-07",
     "answer": "CHESS",
     "hops": [
       {
@@ -3633,8 +3452,8 @@
     ]
   },
   {
-    "id": 150,
-    "date": "2026-10-16",
+    "id": 142,
+    "date": "2026-10-08",
     "answer": "GENIE",
     "hops": [
       {
@@ -3660,8 +3479,8 @@
     ]
   },
   {
-    "id": 151,
-    "date": "2026-10-17",
+    "id": 143,
+    "date": "2026-10-09",
     "answer": "HAREM",
     "hops": [
       {
@@ -3682,8 +3501,8 @@
     ]
   },
   {
-    "id": 152,
-    "date": "2026-10-18",
+    "id": 144,
+    "date": "2026-10-10",
     "answer": "KISMET",
     "hops": [
       {
@@ -3704,8 +3523,8 @@
     ]
   },
   {
-    "id": 153,
-    "date": "2026-10-19",
+    "id": 145,
+    "date": "2026-10-11",
     "answer": "PASHA",
     "hops": [
       {
@@ -3731,8 +3550,8 @@
     ]
   },
   {
-    "id": 154,
-    "date": "2026-10-20",
+    "id": 146,
+    "date": "2026-10-12",
     "answer": "SHERBET",
     "hops": [
       {
@@ -3758,8 +3577,8 @@
     ]
   },
   {
-    "id": 155,
-    "date": "2026-10-21",
+    "id": 147,
+    "date": "2026-10-13",
     "answer": "SHRUB",
     "hops": [
       {
@@ -3785,8 +3604,8 @@
     ]
   },
   {
-    "id": 156,
-    "date": "2026-10-22",
+    "id": 148,
+    "date": "2026-10-14",
     "answer": "SYRUP",
     "hops": [
       {
@@ -3807,8 +3626,8 @@
     ]
   },
   {
-    "id": 157,
-    "date": "2026-10-23",
+    "id": 149,
+    "date": "2026-10-15",
     "answer": "MUMMY",
     "hops": [
       {
@@ -3834,8 +3653,8 @@
     ]
   },
   {
-    "id": 158,
-    "date": "2026-10-24",
+    "id": 150,
+    "date": "2026-10-16",
     "answer": "CHESS",
     "hops": [
       {
@@ -3861,8 +3680,8 @@
     ]
   },
   {
-    "id": 159,
-    "date": "2026-10-25",
+    "id": 151,
+    "date": "2026-10-17",
     "answer": "ROOK",
     "hops": [
       {
@@ -3888,8 +3707,8 @@
     ]
   },
   {
-    "id": 160,
-    "date": "2026-10-26",
+    "id": 152,
+    "date": "2026-10-18",
     "answer": "QUEEN",
     "hops": [
       {
@@ -3910,8 +3729,8 @@
     ]
   },
   {
-    "id": 161,
-    "date": "2026-10-27",
+    "id": 153,
+    "date": "2026-10-19",
     "answer": "CASTLE",
     "hops": [
       {
@@ -3937,8 +3756,8 @@
     ]
   },
   {
-    "id": 162,
-    "date": "2026-10-28",
+    "id": 154,
+    "date": "2026-10-20",
     "answer": "GAMBIT",
     "hops": [
       {
@@ -3964,8 +3783,8 @@
     ]
   },
   {
-    "id": 163,
-    "date": "2026-10-29",
+    "id": 155,
+    "date": "2026-10-21",
     "answer": "STALEMATE",
     "hops": [
       {
@@ -3991,8 +3810,8 @@
     ]
   },
   {
-    "id": 164,
-    "date": "2026-10-30",
+    "id": 156,
+    "date": "2026-10-22",
     "answer": "BLITZ",
     "hops": [
       {
@@ -4018,8 +3837,8 @@
     ]
   },
   {
-    "id": 165,
-    "date": "2026-10-31",
+    "id": 157,
+    "date": "2026-10-23",
     "answer": "ERSATZ",
     "hops": [
       {
@@ -4040,8 +3859,8 @@
     ]
   },
   {
-    "id": 166,
-    "date": "2026-11-01",
+    "id": 158,
+    "date": "2026-10-24",
     "answer": "KINDERGARTEN",
     "hops": [
       {
@@ -4062,8 +3881,8 @@
     ]
   },
   {
-    "id": 167,
-    "date": "2026-11-02",
+    "id": 159,
+    "date": "2026-10-25",
     "answer": "DELICATESSEN",
     "hops": [
       {
@@ -4089,8 +3908,8 @@
     ]
   },
   {
-    "id": 168,
-    "date": "2026-11-03",
+    "id": 160,
+    "date": "2026-10-26",
     "answer": "PRETZEL",
     "hops": [
       {
@@ -4116,8 +3935,8 @@
     ]
   },
   {
-    "id": 169,
-    "date": "2026-11-04",
+    "id": 161,
+    "date": "2026-10-27",
     "answer": "POODLE",
     "hops": [
       {
@@ -4138,8 +3957,8 @@
     ]
   },
   {
-    "id": 170,
-    "date": "2026-11-05",
+    "id": 162,
+    "date": "2026-10-28",
     "answer": "DACHSHUND",
     "hops": [
       {
@@ -4165,8 +3984,8 @@
     ]
   },
   {
-    "id": 171,
-    "date": "2026-11-06",
+    "id": 163,
+    "date": "2026-10-29",
     "answer": "HAMSTER",
     "hops": [
       {
@@ -4187,8 +4006,8 @@
     ]
   },
   {
-    "id": 172,
-    "date": "2026-11-07",
+    "id": 164,
+    "date": "2026-10-30",
     "answer": "WALTZ",
     "hops": [
       {
@@ -4214,8 +4033,8 @@
     ]
   },
   {
-    "id": 173,
-    "date": "2026-11-08",
+    "id": 165,
+    "date": "2026-10-31",
     "answer": "ZEITGEIST",
     "hops": [
       {
@@ -4241,8 +4060,8 @@
     ]
   },
   {
-    "id": 174,
-    "date": "2026-11-09",
+    "id": 166,
+    "date": "2026-11-01",
     "answer": "DOPPELGANGER",
     "hops": [
       {
@@ -4268,8 +4087,8 @@
     ]
   },
   {
-    "id": 175,
-    "date": "2026-11-10",
+    "id": 167,
+    "date": "2026-11-02",
     "answer": "POLTERGEIST",
     "hops": [
       {
@@ -4295,8 +4114,8 @@
     ]
   },
   {
-    "id": 176,
-    "date": "2026-11-11",
+    "id": 168,
+    "date": "2026-11-03",
     "answer": "ANGST",
     "hops": [
       {
@@ -4322,8 +4141,8 @@
     ]
   },
   {
-    "id": 177,
-    "date": "2026-11-12",
+    "id": 169,
+    "date": "2026-11-04",
     "answer": "MUESLI",
     "hops": [
       {
@@ -4344,8 +4163,8 @@
     ]
   },
   {
-    "id": 178,
-    "date": "2026-11-13",
+    "id": 170,
+    "date": "2026-11-05",
     "answer": "STRUDEL",
     "hops": [
       {
@@ -4366,8 +4185,8 @@
     ]
   },
   {
-    "id": 179,
-    "date": "2026-11-14",
+    "id": 171,
+    "date": "2026-11-06",
     "answer": "QUARTZ",
     "hops": [
       {
@@ -4393,8 +4212,8 @@
     ]
   },
   {
-    "id": 180,
-    "date": "2026-11-15",
+    "id": 172,
+    "date": "2026-11-07",
     "answer": "NICKEL",
     "hops": [
       {
@@ -4420,8 +4239,8 @@
     ]
   },
   {
-    "id": 181,
-    "date": "2026-11-16",
+    "id": 173,
+    "date": "2026-11-08",
     "answer": "COBALT",
     "hops": [
       {
@@ -4442,8 +4261,8 @@
     ]
   },
   {
-    "id": 182,
-    "date": "2026-11-17",
+    "id": 174,
+    "date": "2026-11-09",
     "answer": "ZINC",
     "hops": [
       {
@@ -4469,8 +4288,8 @@
     ]
   },
   {
-    "id": 183,
-    "date": "2026-11-18",
+    "id": 175,
+    "date": "2026-11-10",
     "answer": "FELDSPAR",
     "hops": [
       {
