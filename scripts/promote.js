@@ -45,7 +45,7 @@ if (!fs.existsSync(candidatesPath)) {
 const candidates = JSON.parse(fs.readFileSync(candidatesPath, 'utf8'));
 
 let eligible = candidates.filter(c => {
-  if (!c.suitable || c.hops.length < 2) return false;
+  if (!c.suitable || c.hops.length < 3) return false;
   if (existing.has(c.word.toUpperCase()))  return false;
   if (FILTER.length && !FILTER.includes(c.word.toUpperCase())) return false;
   return true;

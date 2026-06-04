@@ -24,23 +24,6 @@
   {
     "id": 2,
     "date": "2026-05-21",
-    "answer": "WINDOW",
-    "hops": [
-      {
-        "language": "Old Norse",
-        "form": "vindauga",
-        "meaning": "wind eye"
-      },
-      {
-        "language": "Middle English",
-        "form": "windowe",
-        "meaning": "opening in a wall"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "date": "2026-05-22",
     "answer": "MUSCLE",
     "hops": [
       {
@@ -61,8 +44,8 @@
     ]
   },
   {
-    "id": 4,
-    "date": "2026-05-23",
+    "id": 3,
+    "date": "2026-05-22",
     "answer": "DISASTER",
     "hops": [
       {
@@ -88,8 +71,8 @@
     ]
   },
   {
-    "id": 5,
-    "date": "2026-05-24",
+    "id": 4,
+    "date": "2026-05-23",
     "answer": "VILLAIN",
     "hops": [
       {
@@ -110,25 +93,8 @@
     ]
   },
   {
-    "id": 6,
-    "date": "2026-05-25",
-    "answer": "CANDIDATE",
-    "hops": [
-      {
-        "language": "Latin",
-        "form": "candidus",
-        "meaning": "white, gleaming, pure"
-      },
-      {
-        "language": "Latin",
-        "form": "candidatus",
-        "meaning": "one clothed in white"
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "date": "2026-05-26",
+    "id": 5,
+    "date": "2026-05-24",
     "answer": "HAZARD",
     "hops": [
       {
@@ -149,8 +115,8 @@
     ]
   },
   {
-    "id": 8,
-    "date": "2026-05-27",
+    "id": 6,
+    "date": "2026-05-25",
     "answer": "CALCULATE",
     "hops": [
       {
@@ -171,8 +137,8 @@
     ]
   },
   {
-    "id": 9,
-    "date": "2026-05-28",
+    "id": 7,
+    "date": "2026-05-26",
     "answer": "COMPANION",
     "hops": [
       {
@@ -193,8 +159,8 @@
     ]
   },
   {
-    "id": 10,
-    "date": "2026-05-29",
+    "id": 8,
+    "date": "2026-05-27",
     "answer": "TRAGEDY",
     "hops": [
       {
@@ -220,25 +186,8 @@
     ]
   },
   {
-    "id": 11,
-    "date": "2026-05-30",
-    "answer": "OSTRACIZE",
-    "hops": [
-      {
-        "language": "Greek",
-        "form": "ostrakon",
-        "meaning": "potsherd, tile, shell"
-      },
-      {
-        "language": "Greek",
-        "form": "ostrakizein",
-        "meaning": "to banish by writing a name on a pottery shard"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "date": "2026-05-31",
+    "id": 9,
+    "date": "2026-05-28",
     "answer": "QUARANTINE",
     "hops": [
       {
@@ -259,8 +208,8 @@
     ]
   },
   {
-    "id": 13,
-    "date": "2026-06-01",
+    "id": 10,
+    "date": "2026-05-29",
     "answer": "TREACLE",
     "hops": [
       {
@@ -281,8 +230,8 @@
     ]
   },
   {
-    "id": 14,
-    "date": "2026-06-02",
+    "id": 11,
+    "date": "2026-05-30",
     "answer": "BALLOT",
     "hops": [
       {
@@ -303,42 +252,8 @@
     ]
   },
   {
-    "id": 15,
-    "date": "2026-06-03",
-    "answer": "SINISTER",
-    "hops": [
-      {
-        "language": "Latin",
-        "form": "sinister",
-        "meaning": "left, on the left side"
-      },
-      {
-        "language": "Old French",
-        "form": "sinistre",
-        "meaning": "unfavorable, inauspicious"
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "date": "2026-06-04",
-    "answer": "ALCOHOL",
-    "hops": [
-      {
-        "language": "Arabic",
-        "form": "al-kuhul",
-        "meaning": "kohl, powder for darkening eyelids"
-      },
-      {
-        "language": "Medieval Latin",
-        "form": "alcohol",
-        "meaning": "powdered ore of antimony"
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "date": "2026-06-05",
+    "id": 12,
+    "date": "2026-05-31",
     "answer": "ALGEBRA",
     "hops": [
       {
@@ -359,8 +274,8 @@
     ]
   },
   {
-    "id": 18,
-    "date": "2026-06-06",
+    "id": 13,
+    "date": "2026-06-01",
     "answer": "ALIBI",
     "hops": [
       {
@@ -381,25 +296,8 @@
     ]
   },
   {
-    "id": 19,
-    "date": "2026-06-07",
-    "answer": "ALLIGATOR",
-    "hops": [
-      {
-        "language": "Latin",
-        "form": "lacertus",
-        "meaning": "lizard"
-      },
-      {
-        "language": "Spanish",
-        "form": "el lagarto",
-        "meaning": "the lizard (of the Indies)"
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "date": "2026-06-08",
+    "id": 14,
+    "date": "2026-06-02",
     "answer": "AMMONIA",
     "hops": [
       {
@@ -420,8 +318,8 @@
     ]
   },
   {
-    "id": 21,
-    "date": "2026-06-09",
+    "id": 15,
+    "date": "2026-06-03",
     "answer": "ARTERY",
     "hops": [
       {
@@ -442,8 +340,8 @@
     ]
   },
   {
-    "id": 22,
-    "date": "2026-06-10",
+    "id": 16,
+    "date": "2026-06-04",
     "answer": "BEDLAM",
     "hops": [
       {
@@ -464,8 +362,8 @@
     ]
   },
   {
-    "id": 23,
-    "date": "2026-06-11",
+    "id": 17,
+    "date": "2026-06-05",
     "answer": "BONFIRE",
     "hops": [
       {
@@ -486,8 +384,8 @@
     ]
   },
   {
-    "id": 24,
-    "date": "2026-06-12",
+    "id": 18,
+    "date": "2026-06-06",
     "answer": "BUDGET",
     "hops": [
       {
@@ -508,8 +406,8 @@
     ]
   },
   {
-    "id": 25,
-    "date": "2026-06-13",
+    "id": 19,
+    "date": "2026-06-07",
     "answer": "CANOPY",
     "hops": [
       {
@@ -535,8 +433,8 @@
     ]
   },
   {
-    "id": 26,
-    "date": "2026-06-14",
+    "id": 20,
+    "date": "2026-06-08",
     "answer": "CANVAS",
     "hops": [
       {
@@ -562,8 +460,8 @@
     ]
   },
   {
-    "id": 27,
-    "date": "2026-06-15",
+    "id": 21,
+    "date": "2026-06-09",
     "answer": "CARNIVAL",
     "hops": [
       {
@@ -589,8 +487,8 @@
     ]
   },
   {
-    "id": 28,
-    "date": "2026-06-16",
+    "id": 22,
+    "date": "2026-06-10",
     "answer": "CHAOS",
     "hops": [
       {
@@ -616,8 +514,8 @@
     ]
   },
   {
-    "id": 29,
-    "date": "2026-06-17",
+    "id": 23,
+    "date": "2026-06-11",
     "answer": "CHOREOGRAPHY",
     "hops": [
       {
@@ -643,25 +541,8 @@
     ]
   },
   {
-    "id": 30,
-    "date": "2026-06-18",
-    "answer": "CURFEW",
-    "hops": [
-      {
-        "language": "Old French",
-        "form": "cuevrefeu",
-        "meaning": "literally 'cover fire'"
-      },
-      {
-        "language": "Anglo-French",
-        "form": "coeverfu",
-        "meaning": "evening bell to extinguish fires"
-      }
-    ]
-  },
-  {
-    "id": 31,
-    "date": "2026-06-19",
+    "id": 24,
+    "date": "2026-06-12",
     "answer": "DENIM",
     "hops": [
       {
@@ -682,8 +563,8 @@
     ]
   },
   {
-    "id": 32,
-    "date": "2026-06-20",
+    "id": 25,
+    "date": "2026-06-13",
     "answer": "EXCHEQUER",
     "hops": [
       {
@@ -709,8 +590,8 @@
     ]
   },
   {
-    "id": 33,
-    "date": "2026-06-21",
+    "id": 26,
+    "date": "2026-06-14",
     "answer": "GENUINE",
     "hops": [
       {
@@ -731,8 +612,8 @@
     ]
   },
   {
-    "id": 34,
-    "date": "2026-06-22",
+    "id": 27,
+    "date": "2026-06-15",
     "answer": "GYMNASIUM",
     "hops": [
       {
@@ -758,8 +639,8 @@
     ]
   },
   {
-    "id": 35,
-    "date": "2026-06-23",
+    "id": 28,
+    "date": "2026-06-16",
     "answer": "HELICOPTER",
     "hops": [
       {
@@ -780,25 +661,8 @@
     ]
   },
   {
-    "id": 36,
-    "date": "2026-06-24",
-    "answer": "HURRICANE",
-    "hops": [
-      {
-        "language": "Arawakan",
-        "form": "huracan",
-        "meaning": "god of storms / great wind"
-      },
-      {
-        "language": "Spanish",
-        "form": "huracán",
-        "meaning": "severe sea-storm"
-      }
-    ]
-  },
-  {
-    "id": 37,
-    "date": "2026-06-25",
+    "id": 29,
+    "date": "2026-06-17",
     "answer": "HYSTERIA",
     "hops": [
       {
@@ -819,8 +683,8 @@
     ]
   },
   {
-    "id": 38,
-    "date": "2026-06-26",
+    "id": 30,
+    "date": "2026-06-18",
     "answer": "IDIOT",
     "hops": [
       {
@@ -846,8 +710,8 @@
     ]
   },
   {
-    "id": 39,
-    "date": "2026-06-27",
+    "id": 31,
+    "date": "2026-06-19",
     "answer": "INAUGURATE",
     "hops": [
       {
@@ -873,8 +737,8 @@
     ]
   },
   {
-    "id": 40,
-    "date": "2026-06-28",
+    "id": 32,
+    "date": "2026-06-20",
     "answer": "INFLUENCE",
     "hops": [
       {
@@ -895,8 +759,8 @@
     ]
   },
   {
-    "id": 41,
-    "date": "2026-06-29",
+    "id": 33,
+    "date": "2026-06-21",
     "answer": "INOCULATE",
     "hops": [
       {
@@ -917,8 +781,8 @@
     ]
   },
   {
-    "id": 42,
-    "date": "2026-06-30",
+    "id": 34,
+    "date": "2026-06-22",
     "answer": "INSULT",
     "hops": [
       {
@@ -944,8 +808,8 @@
     ]
   },
   {
-    "id": 43,
-    "date": "2026-07-01",
+    "id": 35,
+    "date": "2026-06-23",
     "answer": "ISLAND",
     "hops": [
       {
@@ -966,8 +830,8 @@
     ]
   },
   {
-    "id": 44,
-    "date": "2026-07-02",
+    "id": 36,
+    "date": "2026-06-24",
     "answer": "JUBILEE",
     "hops": [
       {
@@ -993,25 +857,8 @@
     ]
   },
   {
-    "id": 45,
-    "date": "2026-07-03",
-    "answer": "JUNGLE",
-    "hops": [
-      {
-        "language": "Sanskrit",
-        "form": "jangala-s",
-        "meaning": "arid, sparsely treed land"
-      },
-      {
-        "language": "Hindi",
-        "form": "jangal",
-        "meaning": "desert, forest, uncultivated wasteland"
-      }
-    ]
-  },
-  {
-    "id": 46,
-    "date": "2026-07-04",
+    "id": 37,
+    "date": "2026-06-25",
     "answer": "LACONIC",
     "hops": [
       {
@@ -1032,8 +879,8 @@
     ]
   },
   {
-    "id": 47,
-    "date": "2026-07-05",
+    "id": 38,
+    "date": "2026-06-26",
     "answer": "LUNATIC",
     "hops": [
       {
@@ -1054,8 +901,8 @@
     ]
   },
   {
-    "id": 48,
-    "date": "2026-07-06",
+    "id": 39,
+    "date": "2026-06-27",
     "answer": "MALARIA",
     "hops": [
       {
@@ -1076,25 +923,8 @@
     ]
   },
   {
-    "id": 49,
-    "date": "2026-07-07",
-    "answer": "MARATHON",
-    "hops": [
-      {
-        "language": "Greek",
-        "form": "marathon",
-        "meaning": "fennel; fennel-field"
-      },
-      {
-        "language": "Greek",
-        "form": "Marathōn",
-        "meaning": "Attic town, site of famous battle"
-      }
-    ]
-  },
-  {
-    "id": 50,
-    "date": "2026-07-08",
+    "id": 40,
+    "date": "2026-06-28",
     "answer": "MELANCHOLY",
     "hops": [
       {
@@ -1115,25 +945,8 @@
     ]
   },
   {
-    "id": 51,
-    "date": "2026-07-09",
-    "answer": "PANIC",
-    "hops": [
-      {
-        "language": "Greek",
-        "form": "panikon",
-        "meaning": "pertaining to Pan, god of woods"
-      },
-      {
-        "language": "French",
-        "form": "panique",
-        "meaning": "sudden contagious fright"
-      }
-    ]
-  },
-  {
-    "id": 52,
-    "date": "2026-07-10",
+    "id": 41,
+    "date": "2026-06-29",
     "answer": "PARADISE",
     "hops": [
       {
@@ -1159,8 +972,8 @@
     ]
   },
   {
-    "id": 53,
-    "date": "2026-07-11",
+    "id": 42,
+    "date": "2026-06-30",
     "answer": "PARLIAMENT",
     "hops": [
       {
@@ -1181,8 +994,8 @@
     ]
   },
   {
-    "id": 54,
-    "date": "2026-07-12",
+    "id": 43,
+    "date": "2026-07-01",
     "answer": "PLANET",
     "hops": [
       {
@@ -1208,8 +1021,8 @@
     ]
   },
   {
-    "id": 55,
-    "date": "2026-07-13",
+    "id": 44,
+    "date": "2026-07-02",
     "answer": "SERENDIPITY",
     "hops": [
       {
@@ -1230,8 +1043,8 @@
     ]
   },
   {
-    "id": 56,
-    "date": "2026-07-14",
+    "id": 45,
+    "date": "2026-07-03",
     "answer": "SKELETON",
     "hops": [
       {
@@ -1257,8 +1070,8 @@
     ]
   },
   {
-    "id": 57,
-    "date": "2026-07-15",
+    "id": 46,
+    "date": "2026-07-04",
     "answer": "SLOGAN",
     "hops": [
       {
@@ -1279,8 +1092,8 @@
     ]
   },
   {
-    "id": 58,
-    "date": "2026-07-16",
+    "id": 47,
+    "date": "2026-07-05",
     "answer": "SOLDIER",
     "hops": [
       {
@@ -1306,8 +1119,8 @@
     ]
   },
   {
-    "id": 59,
-    "date": "2026-07-17",
+    "id": 48,
+    "date": "2026-07-06",
     "answer": "SYCOPHANT",
     "hops": [
       {
@@ -1333,8 +1146,8 @@
     ]
   },
   {
-    "id": 60,
-    "date": "2026-07-18",
+    "id": 49,
+    "date": "2026-07-07",
     "answer": "TALENT",
     "hops": [
       {
@@ -1360,25 +1173,8 @@
     ]
   },
   {
-    "id": 61,
-    "date": "2026-07-19",
-    "answer": "TANTALIZE",
-    "hops": [
-      {
-        "language": "Greek",
-        "form": "Tantalos",
-        "meaning": "mythical king punished by the gods for eternity"
-      },
-      {
-        "language": "Latin",
-        "form": "Tantalus",
-        "meaning": "the same punished king"
-      }
-    ]
-  },
-  {
-    "id": 62,
-    "date": "2026-07-20",
+    "id": 50,
+    "date": "2026-07-08",
     "answer": "TYPHOON",
     "hops": [
       {
@@ -1404,8 +1200,8 @@
     ]
   },
   {
-    "id": 63,
-    "date": "2026-07-21",
+    "id": 51,
+    "date": "2026-07-09",
     "answer": "VACCINE",
     "hops": [
       {
@@ -1426,8 +1222,8 @@
     ]
   },
   {
-    "id": 64,
-    "date": "2026-07-22",
+    "id": 52,
+    "date": "2026-07-10",
     "answer": "VANDAL",
     "hops": [
       {
@@ -1448,25 +1244,8 @@
     ]
   },
   {
-    "id": 65,
-    "date": "2026-07-23",
-    "answer": "VOLCANO",
-    "hops": [
-      {
-        "language": "Latin",
-        "form": "Vulcanus",
-        "meaning": "Vulcan, Roman god of fire"
-      },
-      {
-        "language": "Italian",
-        "form": "vulcano",
-        "meaning": "burning mountain"
-      }
-    ]
-  },
-  {
-    "id": 66,
-    "date": "2026-07-24",
+    "id": 53,
+    "date": "2026-07-11",
     "answer": "WITCH",
     "hops": [
       {
@@ -1487,8 +1266,8 @@
     ]
   },
   {
-    "id": 67,
-    "date": "2026-07-25",
+    "id": 54,
+    "date": "2026-07-12",
     "answer": "ZERO",
     "hops": [
       {
@@ -1514,25 +1293,8 @@
     ]
   },
   {
-    "id": 68,
-    "date": "2026-07-26",
-    "answer": "TUXEDO",
-    "hops": [
-      {
-        "language": "Munsee Delaware",
-        "form": "p'tuck-sepo",
-        "meaning": "crooked river"
-      },
-      {
-        "language": "English",
-        "form": "Tuxedo Park",
-        "meaning": "wealthy New York resort and country club"
-      }
-    ]
-  },
-  {
-    "id": 69,
-    "date": "2026-07-27",
+    "id": 55,
+    "date": "2026-07-13",
     "answer": "SUGAR",
     "hops": [
       {
@@ -1554,6 +1316,3177 @@
         "language": "Old French",
         "form": "sucre",
         "meaning": "sugar"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "date": "2026-07-14",
+    "answer": "OSTRACIZE",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*ost-",
+        "meaning": "bone"
+      },
+      {
+        "language": "Greek",
+        "form": "ostrakon",
+        "meaning": "tile, potsherd"
+      },
+      {
+        "language": "Greek",
+        "form": "ostrakizein",
+        "meaning": "to banish by voting with potshards"
+      },
+      {
+        "language": "Latin",
+        "form": "ostracismus",
+        "meaning": "banishment by popular vote"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "date": "2026-07-15",
+    "answer": "TATTOO",
+    "hops": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*to",
+        "meaning": "to, shut"
+      },
+      {
+        "language": "Dutch",
+        "form": "taptoe",
+        "meaning": "shut the tap (close the casks)"
+      },
+      {
+        "language": "Middle English",
+        "form": "tap-to",
+        "meaning": "signal sending soldiers to quarters"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "date": "2026-07-16",
+    "answer": "ASSASSIN",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "hashīshīn",
+        "meaning": "hashish-users; nickname for a Muslim sect"
+      },
+      {
+        "language": "Italian",
+        "form": "Assassini",
+        "meaning": "the fanatical sect of killers"
+      },
+      {
+        "language": "Old French",
+        "form": "assassin",
+        "meaning": "one who murders a leader"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "date": "2026-07-17",
+    "answer": "GOSSIP",
+    "hops": [
+      {
+        "language": "Old English",
+        "form": "God + sibb",
+        "meaning": "God + relative"
+      },
+      {
+        "language": "Old English",
+        "form": "godsibb",
+        "meaning": "sponsor, godparent"
+      },
+      {
+        "language": "Middle English",
+        "form": "gossib",
+        "meaning": "close friend, neighbor"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "date": "2026-07-18",
+    "answer": "CHECKMATE",
+    "hops": [
+      {
+        "language": "Persian",
+        "form": "shah mat",
+        "meaning": "the king is left helpless"
+      },
+      {
+        "language": "Arabic",
+        "form": "shah mat",
+        "meaning": "the king died"
+      },
+      {
+        "language": "Old French",
+        "form": "eschec mat",
+        "meaning": "checkmate in chess"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "date": "2026-07-19",
+    "answer": "TARIFF",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "arafa",
+        "meaning": "he made known, he taught"
+      },
+      {
+        "language": "Arabic",
+        "form": "ta'rif",
+        "meaning": "notification; inventory of fees"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "tarifa",
+        "meaning": "list of prices, book of rates"
+      },
+      {
+        "language": "Italian",
+        "form": "tariffa",
+        "meaning": "tariff, price, assessment"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "date": "2026-07-20",
+    "answer": "ROBOT",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*orbh-",
+        "meaning": "pass from one status to another"
+      },
+      {
+        "language": "Old Church Slavonic",
+        "form": "rabu",
+        "meaning": "slave"
+      },
+      {
+        "language": "Czech",
+        "form": "robota",
+        "meaning": "forced labor, drudgery"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "date": "2026-07-21",
+    "answer": "NOSTRIL",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*nas-",
+        "meaning": "nose"
+      },
+      {
+        "language": "Proto-Indo-European",
+        "form": "*tere-",
+        "meaning": "cross over, pass through"
+      },
+      {
+        "language": "Old English",
+        "form": "nosþyrl",
+        "meaning": "the hole of the nose"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "date": "2026-07-22",
+    "answer": "ADMIRAL",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "amir",
+        "meaning": "military commander, prince"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "amiratus",
+        "meaning": "Muslim military leader"
+      },
+      {
+        "language": "Old French",
+        "form": "amirail",
+        "meaning": "Saracen military commander"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "date": "2026-07-23",
+    "answer": "ZENITH",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "samt ar-ras",
+        "meaning": "the way over the head"
+      },
+      {
+        "language": "Arabic",
+        "form": "samt",
+        "meaning": "road, path"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "zyneth",
+        "meaning": "garbled scribal misreading of samt"
+      },
+      {
+        "language": "Old French",
+        "form": "cenith",
+        "meaning": "point directly overhead"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "date": "2026-07-24",
+    "answer": "NADIR",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "nazir as-samt",
+        "meaning": "opposite direction"
+      },
+      {
+        "language": "Arabic",
+        "form": "nazir",
+        "meaning": "opposite to"
+      },
+      {
+        "language": "Latin",
+        "form": "nadir",
+        "meaning": "point opposite the zenith"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "date": "2026-07-25",
+    "answer": "CIPHER",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "sunya-s",
+        "meaning": "empty, void"
+      },
+      {
+        "language": "Arabic",
+        "form": "sifr",
+        "meaning": "zero, empty, nothing"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "cifra",
+        "meaning": "zero"
+      },
+      {
+        "language": "Old French",
+        "form": "cifre",
+        "meaning": "nought, zero"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "date": "2026-07-26",
+    "answer": "AVERAGE",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "'awariya",
+        "meaning": "damaged merchandise"
+      },
+      {
+        "language": "Italian",
+        "form": "avaria",
+        "meaning": "damage to a ship"
+      },
+      {
+        "language": "French",
+        "form": "avarie",
+        "meaning": "damage to ship's cargo"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "date": "2026-07-27",
+    "answer": "ARSENAL",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "sana'a",
+        "meaning": "he made"
+      },
+      {
+        "language": "Arabic",
+        "form": "dar as-sina'ah",
+        "meaning": "house of manufacture, workshop"
+      },
+      {
+        "language": "Italian",
+        "form": "arzenale",
+        "meaning": "dockyard, naval wharf"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "date": "2026-07-28",
+    "answer": "CARAVAN",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "karabhah",
+        "meaning": "camel"
+      },
+      {
+        "language": "Persian",
+        "form": "karwan",
+        "meaning": "group of desert travelers"
+      },
+      {
+        "language": "Arabic",
+        "form": "qairawan",
+        "meaning": "traveling company, caravan"
+      },
+      {
+        "language": "Old French",
+        "form": "carevane",
+        "meaning": "caravan of travelers"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "date": "2026-07-29",
+    "answer": "ESCAPE",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "cappa",
+        "meaning": "mantle, cloak"
+      },
+      {
+        "language": "Vulgar Latin",
+        "form": "*excappare",
+        "meaning": "get out of one's cape"
+      },
+      {
+        "language": "Old French",
+        "form": "eschaper",
+        "meaning": "free oneself, get away"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "date": "2026-07-30",
+    "answer": "TRIVIAL",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "tri- + via",
+        "meaning": "three + road"
+      },
+      {
+        "language": "Latin",
+        "form": "trivium",
+        "meaning": "place where three roads meet"
+      },
+      {
+        "language": "Latin",
+        "form": "trivialis",
+        "meaning": "of the crossroads; common, commonplace"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "date": "2026-07-31",
+    "answer": "MUSCATEL",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "muscus",
+        "meaning": "musk"
+      },
+      {
+        "language": "Vulgar Latin",
+        "form": "*muscatus",
+        "meaning": "musky-flavored"
+      },
+      {
+        "language": "Italian",
+        "form": "moscato",
+        "meaning": "musky-flavored wine"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "muscatellum",
+        "meaning": "little musk-scented grape"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "date": "2026-08-01",
+    "answer": "SHERRY",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "urbs Caesaris",
+        "meaning": "city of Caesar"
+      },
+      {
+        "language": "Spanish",
+        "form": "Xeres",
+        "meaning": "Andalusian town (modern Jerez)"
+      },
+      {
+        "language": "Spanish",
+        "form": "vino de Xeres",
+        "meaning": "wine from Xeres"
+      },
+      {
+        "language": "Middle English",
+        "form": "sherris",
+        "meaning": "the wine, mistaken as plural"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "date": "2026-08-02",
+    "answer": "SEQUIN",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "sikka",
+        "meaning": "a minting die, coined money"
+      },
+      {
+        "language": "Italian",
+        "form": "zecca",
+        "meaning": "a mint (for coins)"
+      },
+      {
+        "language": "Italian",
+        "form": "zecchino",
+        "meaning": "Venetian gold coin"
+      },
+      {
+        "language": "French",
+        "form": "sequin",
+        "meaning": "gold coin"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "date": "2026-08-03",
+    "answer": "DAMASK",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "Dimashq",
+        "meaning": "the city of Damascus"
+      },
+      {
+        "language": "Greek",
+        "form": "Damaskos",
+        "meaning": "Damascus, Syrian city"
+      },
+      {
+        "language": "Latin",
+        "form": "Damascus",
+        "meaning": "Damascus, famed for silk and steel"
+      },
+      {
+        "language": "Old French",
+        "form": "Damaske",
+        "meaning": "patterned cloth from Damascus"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "date": "2026-08-04",
+    "answer": "CRAVAT",
+    "hops": [
+      {
+        "language": "Old Church Slavonic",
+        "form": "Churvatinu",
+        "meaning": "mountaineer, highlander"
+      },
+      {
+        "language": "Serbo-Croatian",
+        "form": "Hrvat",
+        "meaning": "a Croat"
+      },
+      {
+        "language": "German",
+        "form": "Krabate",
+        "meaning": "Croatian"
+      },
+      {
+        "language": "French",
+        "form": "cravate",
+        "meaning": "Croatian; Croat's neck-scarf"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "date": "2026-08-05",
+    "answer": "OTTOMAN",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "'Uthmani",
+        "meaning": "belonging to 'Uthman, a man's name"
+      },
+      {
+        "language": "Italian",
+        "form": "Ottomano",
+        "meaning": "of the Turkish dynasty"
+      },
+      {
+        "language": "French",
+        "form": "Ottoman",
+        "meaning": "of the Ottoman Empire"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "date": "2026-08-06",
+    "answer": "DIVAN",
+    "hops": [
+      {
+        "language": "Persian",
+        "form": "devan",
+        "meaning": "bundle of written sheets, collection of poems"
+      },
+      {
+        "language": "Arabic",
+        "form": "diwan",
+        "meaning": "book of accounts, then council chamber"
+      },
+      {
+        "language": "Turkish",
+        "form": "divan",
+        "meaning": "council of state, cushioned seat"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "date": "2026-08-07",
+    "answer": "MATTRESS",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "taraha",
+        "meaning": "he threw down"
+      },
+      {
+        "language": "Arabic",
+        "form": "al-matrah",
+        "meaning": "the thing thrown down; large cushion"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "matracium",
+        "meaning": "cushion for lying on"
+      },
+      {
+        "language": "Old French",
+        "form": "materas",
+        "meaning": "bag filled with soft material"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "date": "2026-08-08",
+    "answer": "SYRUP",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "shariba",
+        "meaning": "he drank"
+      },
+      {
+        "language": "Arabic",
+        "form": "sharab",
+        "meaning": "beverage, wine, something drunk"
+      },
+      {
+        "language": "Old French",
+        "form": "sirop",
+        "meaning": "sugared drink"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "date": "2026-08-09",
+    "answer": "CANDY",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "khanda",
+        "meaning": "piece of sugar"
+      },
+      {
+        "language": "Persian",
+        "form": "qand",
+        "meaning": "cane sugar"
+      },
+      {
+        "language": "Arabic",
+        "form": "qandi",
+        "meaning": "made of sugar"
+      },
+      {
+        "language": "Old French",
+        "form": "çucre candi",
+        "meaning": "sugar candy"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "date": "2026-08-10",
+    "answer": "ORANGE",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "naranga-s",
+        "meaning": "orange tree"
+      },
+      {
+        "language": "Persian",
+        "form": "narang",
+        "meaning": "orange"
+      },
+      {
+        "language": "Arabic",
+        "form": "naranj",
+        "meaning": "orange"
+      },
+      {
+        "language": "Old French",
+        "form": "orenge",
+        "meaning": "the fruit (n- lost to confusion with article)"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "date": "2026-08-11",
+    "answer": "APRICOT",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "praecoquum",
+        "meaning": "early-ripening fruit"
+      },
+      {
+        "language": "Greek",
+        "form": "berikokkia",
+        "meaning": "apricot"
+      },
+      {
+        "language": "Arabic",
+        "form": "al-birquq",
+        "meaning": "the apricot"
+      },
+      {
+        "language": "Catalan",
+        "form": "abercoc",
+        "meaning": "apricot"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "date": "2026-08-12",
+    "answer": "ARTICHOKE",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "al-hursufa",
+        "meaning": "the artichoke"
+      },
+      {
+        "language": "Spanish",
+        "form": "alcarchofa",
+        "meaning": "artichoke"
+      },
+      {
+        "language": "Italian",
+        "form": "arcicioffo",
+        "meaning": "artichoke"
+      },
+      {
+        "language": "Italian",
+        "form": "articiocco",
+        "meaning": "artichoke, influenced by ciocco 'stump'"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "date": "2026-08-13",
+    "answer": "SPINACH",
+    "hops": [
+      {
+        "language": "Persian",
+        "form": "aspanakh",
+        "meaning": "spinach"
+      },
+      {
+        "language": "Arabic",
+        "form": "isbanakh",
+        "meaning": "spinach"
+      },
+      {
+        "language": "Old French",
+        "form": "espinache",
+        "meaning": "spinach"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "date": "2026-08-14",
+    "answer": "SAFFRON",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "az-za'faran",
+        "meaning": "saffron spice (origin unknown)"
+      },
+      {
+        "language": "Latin",
+        "form": "safranum",
+        "meaning": "saffron"
+      },
+      {
+        "language": "Old French",
+        "form": "safran",
+        "meaning": "saffron"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "date": "2026-08-15",
+    "answer": "COFFEE",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "qahwah",
+        "meaning": "coffee; once linked to a word for wine"
+      },
+      {
+        "language": "Turkish",
+        "form": "kahveh",
+        "meaning": "coffee"
+      },
+      {
+        "language": "Dutch",
+        "form": "koffie",
+        "meaning": "coffee"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "date": "2026-08-16",
+    "answer": "JAR",
+    "hops": [
+      {
+        "language": "Persian",
+        "form": "jarrah",
+        "meaning": "earthen water-vessel"
+      },
+      {
+        "language": "Arabic",
+        "form": "jarrah",
+        "meaning": "earthen water vessel, ewer"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "jarra",
+        "meaning": "earthen jar"
+      },
+      {
+        "language": "Old French",
+        "form": "jarre",
+        "meaning": "liquid measure smaller than a barrel"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "date": "2026-08-17",
+    "answer": "COTTON",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "qutn",
+        "meaning": "cotton (perhaps from Egyptian)"
+      },
+      {
+        "language": "Italian",
+        "form": "cotone",
+        "meaning": "cotton fiber"
+      },
+      {
+        "language": "Old French",
+        "form": "coton",
+        "meaning": "cotton"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "date": "2026-08-18",
+    "answer": "MUSLIN",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "al-Mawsul",
+        "meaning": "the joined (city on the Tigris)"
+      },
+      {
+        "language": "Italian",
+        "form": "Mussolo",
+        "meaning": "Italian name for Mosul"
+      },
+      {
+        "language": "Italian",
+        "form": "mussolina",
+        "meaning": "cloth made in Mosul"
+      },
+      {
+        "language": "Old French",
+        "form": "mousseline",
+        "meaning": "delicately woven cotton fabric"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "date": "2026-08-19",
+    "answer": "SATIN",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "zaytuni",
+        "meaning": "from Zaitun, a Chinese port city"
+      },
+      {
+        "language": "Latin",
+        "form": "seta",
+        "meaning": "silk; animal bristle"
+      },
+      {
+        "language": "Old French",
+        "form": "satin",
+        "meaning": "glossy silken cloth"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "date": "2026-08-20",
+    "answer": "CHINTZ",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*skai-",
+        "meaning": "to shine, gleam, be bright"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "chitra-s",
+        "meaning": "bright, many-colored, distinctively marked"
+      },
+      {
+        "language": "Hindi",
+        "form": "chint",
+        "meaning": "printed, colorful cotton cloth"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "date": "2026-08-21",
+    "answer": "PAJAMAS",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*ped-",
+        "meaning": "foot"
+      },
+      {
+        "language": "Persian",
+        "form": "paejamah",
+        "meaning": "leg clothing"
+      },
+      {
+        "language": "Hindi",
+        "form": "pajama",
+        "meaning": "loose trousers tied at the waist"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "date": "2026-08-22",
+    "answer": "BUNGALOW",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "Banga",
+        "meaning": "name of a founding chief of Bengal"
+      },
+      {
+        "language": "Hindi",
+        "form": "bangla",
+        "meaning": "low, thatched house; 'in the Bengal style'"
+      },
+      {
+        "language": "Gujarati",
+        "form": "bangalo",
+        "meaning": "Bengalese-style house"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "date": "2026-08-23",
+    "answer": "SHAMPOO",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "capayati",
+        "meaning": "pounds, kneads"
+      },
+      {
+        "language": "Hindi",
+        "form": "champo",
+        "meaning": "press and knead the muscles!"
+      },
+      {
+        "language": "Anglo-Indian",
+        "form": "shampoo",
+        "meaning": "to massage the body"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "date": "2026-08-24",
+    "answer": "LOOT",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*reup-",
+        "meaning": "to snatch, tear away"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "loptram",
+        "meaning": "booty, stolen property"
+      },
+      {
+        "language": "Hindi",
+        "form": "lut",
+        "meaning": "plunder, pillage"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "date": "2026-08-25",
+    "answer": "THUG",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*(s)teg-",
+        "meaning": "to cover"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "sthaga-s",
+        "meaning": "cunning, fraudulent, concealing"
+      },
+      {
+        "language": "Hindi",
+        "form": "thag",
+        "meaning": "cheat, swindler"
+      },
+      {
+        "language": "Marathi",
+        "form": "thag",
+        "meaning": "gang member who strangled victims"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "date": "2026-08-26",
+    "answer": "JUGGERNAUT",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*gwa-",
+        "meaning": "to go, come"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "jagat",
+        "meaning": "the world; all that moves"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "Jagannath",
+        "meaning": "lord of the world"
+      },
+      {
+        "language": "Hindi",
+        "form": "Jagannath",
+        "meaning": "title of the god Krishna"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "date": "2026-08-27",
+    "answer": "GURU",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*gwere-*",
+        "meaning": "heavy"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "guru-",
+        "meaning": "heavy, weighty, venerable"
+      },
+      {
+        "language": "Hindi",
+        "form": "guru",
+        "meaning": "teacher, priest"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "date": "2026-08-28",
+    "answer": "DINGHY",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*deru-",
+        "meaning": "be firm, solid; wood, tree"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "drona-m",
+        "meaning": "wooden trough"
+      },
+      {
+        "language": "Hindi",
+        "form": "dingi",
+        "meaning": "small boat"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "date": "2026-08-29",
+    "answer": "MANGO",
+    "hops": [
+      {
+        "language": "Tamil",
+        "form": "mankay",
+        "meaning": "mango-tree fruit (man + kay)"
+      },
+      {
+        "language": "Malay",
+        "form": "mangga",
+        "meaning": "the mango fruit"
+      },
+      {
+        "language": "Portuguese",
+        "form": "manga",
+        "meaning": "mango"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "date": "2026-08-30",
+    "answer": "GINGER",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "srngaveram",
+        "meaning": "horn-body, from the root's shape"
+      },
+      {
+        "language": "Greek",
+        "form": "zingiberis",
+        "meaning": "the ginger spice"
+      },
+      {
+        "language": "Latin",
+        "form": "zingiberi",
+        "meaning": "ginger"
+      },
+      {
+        "language": "Old French",
+        "form": "gingibre",
+        "meaning": "ginger"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "date": "2026-08-31",
+    "answer": "PEPPER",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "pippali",
+        "meaning": "long pepper"
+      },
+      {
+        "language": "Greek",
+        "form": "piperi",
+        "meaning": "pepper"
+      },
+      {
+        "language": "Latin",
+        "form": "piper",
+        "meaning": "pepper"
+      },
+      {
+        "language": "Old English",
+        "form": "pipor",
+        "meaning": "pepper"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "date": "2026-09-01",
+    "answer": "RICE",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "vrihi-s",
+        "meaning": "rice"
+      },
+      {
+        "language": "Greek",
+        "form": "oryza",
+        "meaning": "rice"
+      },
+      {
+        "language": "Latin",
+        "form": "oriza",
+        "meaning": "rice"
+      },
+      {
+        "language": "Italian",
+        "form": "riso",
+        "meaning": "rice"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "date": "2026-09-02",
+    "answer": "CINNAMON",
+    "hops": [
+      {
+        "language": "Hebrew",
+        "form": "qinnamon",
+        "meaning": "cinnamon spice"
+      },
+      {
+        "language": "Greek",
+        "form": "kinnamomon",
+        "meaning": "cinnamon"
+      },
+      {
+        "language": "Latin",
+        "form": "cinnamomum",
+        "meaning": "cinnamon; also a term of endearment"
+      },
+      {
+        "language": "Old French",
+        "form": "cinnamone",
+        "meaning": "cinnamon"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "date": "2026-09-03",
+    "answer": "NUTMEG",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*kneu-",
+        "meaning": "nut"
+      },
+      {
+        "language": "Latin",
+        "form": "nux muscada",
+        "meaning": "nut smelling like musk"
+      },
+      {
+        "language": "Old French",
+        "form": "nois muscade",
+        "meaning": "musky nut"
+      },
+      {
+        "language": "Anglo-French",
+        "form": "noiz mugue",
+        "meaning": "musk-scented nut"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "date": "2026-09-04",
+    "answer": "TEA",
+    "hops": [
+      {
+        "language": "Chinese",
+        "form": "t'e",
+        "meaning": "tea (Amoy dialect)"
+      },
+      {
+        "language": "Malay",
+        "form": "teh",
+        "meaning": "tea"
+      },
+      {
+        "language": "Dutch",
+        "form": "thee",
+        "meaning": "tea"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "date": "2026-09-05",
+    "answer": "SOY",
+    "hops": [
+      {
+        "language": "Chinese",
+        "form": "shi-yu",
+        "meaning": "fermented soybean oil"
+      },
+      {
+        "language": "Japanese",
+        "form": "shoyu",
+        "meaning": "soy sauce"
+      },
+      {
+        "language": "Dutch",
+        "form": "soya",
+        "meaning": "soy"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "date": "2026-09-06",
+    "answer": "SILK",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "Serikos",
+        "meaning": "pertaining to the Seres, an Asian silk people"
+      },
+      {
+        "language": "Latin",
+        "form": "sericum",
+        "meaning": "silk, literally 'Seric stuff'"
+      },
+      {
+        "language": "Old English",
+        "form": "seoloc",
+        "meaning": "silk, silken cloth"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "date": "2026-09-07",
+    "answer": "PORCELAIN",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*porko-",
+        "meaning": "young pig"
+      },
+      {
+        "language": "Latin",
+        "form": "porcellus",
+        "meaning": "young pig, piglet"
+      },
+      {
+        "language": "Italian",
+        "form": "porcellana",
+        "meaning": "cowrie shell (literally 'little sow')"
+      },
+      {
+        "language": "Old French",
+        "form": "porcelaine",
+        "meaning": "porcelain, cowrie shell"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "date": "2026-09-08",
+    "answer": "KARAOKE",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "orkheisthai",
+        "meaning": "to dance"
+      },
+      {
+        "language": "Greek",
+        "form": "orkhēstra",
+        "meaning": "space where the chorus danced"
+      },
+      {
+        "language": "Latin",
+        "form": "orchestra",
+        "meaning": "area for the theater chorus"
+      },
+      {
+        "language": "Japanese",
+        "form": "kara + oke",
+        "meaning": "empty orchestra"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "date": "2026-09-09",
+    "answer": "RICKSHAW",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*kwel-",
+        "meaning": "revolve, move round"
+      },
+      {
+        "language": "Chinese",
+        "form": "che",
+        "meaning": "wheeled vehicle"
+      },
+      {
+        "language": "Japanese",
+        "form": "jinrikisha",
+        "meaning": "man-power carriage"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "date": "2026-09-10",
+    "answer": "ZEN",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*dheie-*",
+        "meaning": "to see, look"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "dhyana",
+        "meaning": "thought, meditation"
+      },
+      {
+        "language": "Chinese",
+        "form": "ch'an",
+        "meaning": "meditation"
+      },
+      {
+        "language": "Japanese",
+        "form": "zen",
+        "meaning": "meditative Buddhist school"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "date": "2026-09-11",
+    "answer": "SAKE",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*sag-*",
+        "meaning": "to investigate, seek out"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*sako",
+        "meaning": "affair, charge, accusation"
+      },
+      {
+        "language": "Old English",
+        "form": "sacu",
+        "meaning": "a cause at law, crime, dispute, guilt"
+      },
+      {
+        "language": "Middle English",
+        "form": "sake",
+        "meaning": "strife, discord, legal dispute, blame"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "date": "2026-09-12",
+    "answer": "TARIFF",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "arafa",
+        "meaning": "he made known, he taught"
+      },
+      {
+        "language": "Arabic",
+        "form": "ta'rif",
+        "meaning": "notification; inventory of fees to pay"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "tarifa",
+        "meaning": "list of prices, book of rates"
+      },
+      {
+        "language": "Italian",
+        "form": "tariffa",
+        "meaning": "tariff, price, assessment"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "date": "2026-09-13",
+    "answer": "ADMIRAL",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "amir",
+        "meaning": "military commander, chieftain"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "amiratus",
+        "meaning": "commander, especially of a fleet"
+      },
+      {
+        "language": "Old French",
+        "form": "amirail",
+        "meaning": "Saracen or any military commander"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "date": "2026-09-14",
+    "answer": "ALGORITHM",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "al-Khwarizmi",
+        "meaning": "native of Khwarazm (a region in Uzbekistan)"
+      },
+      {
+        "language": "Latin",
+        "form": "algorismus",
+        "meaning": "garbled name; the Arabic numeral system"
+      },
+      {
+        "language": "Old French",
+        "form": "algorisme",
+        "meaning": "the Arabic numeral system"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "date": "2026-09-15",
+    "answer": "ELIXIR",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "xeros",
+        "meaning": "dry, withered"
+      },
+      {
+        "language": "Greek",
+        "form": "xerion",
+        "meaning": "powder for drying wounds"
+      },
+      {
+        "language": "Arabic",
+        "form": "al-iksir",
+        "meaning": "the philosopher's stone"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "elixir",
+        "meaning": "stone that transmutes metals to gold"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "date": "2026-09-16",
+    "answer": "ALKALI",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "qala",
+        "meaning": "to roast in a pan"
+      },
+      {
+        "language": "Arabic",
+        "form": "al-qaliy",
+        "meaning": "the burnt ashes of saltwort"
+      },
+      {
+        "language": "Latin",
+        "form": "alkali",
+        "meaning": "soda ash"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "date": "2026-09-17",
+    "answer": "ALCHEMY",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "khemeia",
+        "meaning": "alchemy; perhaps 'land of black earth' (Egypt)"
+      },
+      {
+        "language": "Arabic",
+        "form": "al-kimiya",
+        "meaning": "the alchemy"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "alkimia",
+        "meaning": "alchemy"
+      },
+      {
+        "language": "Old French",
+        "form": "alchimie",
+        "meaning": "alchemy"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "date": "2026-09-18",
+    "answer": "BORAX",
+    "hops": [
+      {
+        "language": "Persian",
+        "form": "burah",
+        "meaning": "a flux-like substance"
+      },
+      {
+        "language": "Arabic",
+        "form": "buraq",
+        "meaning": "substances used as fluxes"
+      },
+      {
+        "language": "Latin",
+        "form": "baurach",
+        "meaning": "white mineral salt"
+      },
+      {
+        "language": "Old French",
+        "form": "boras",
+        "meaning": "the mineral borax"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "date": "2026-09-19",
+    "answer": "GIRAFFE",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "zarafa",
+        "meaning": "the long-necked African animal"
+      },
+      {
+        "language": "Italian",
+        "form": "giraffa",
+        "meaning": "giraffe"
+      },
+      {
+        "language": "Old French",
+        "form": "girafe",
+        "meaning": "giraffe"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "date": "2026-09-20",
+    "answer": "JASMINE",
+    "hops": [
+      {
+        "language": "Persian",
+        "form": "yasmin",
+        "meaning": "fragrant flowering plant"
+      },
+      {
+        "language": "Arabic",
+        "form": "yas(a)min",
+        "meaning": "jasmine flower"
+      },
+      {
+        "language": "French",
+        "form": "jasmin",
+        "meaning": "jasmine"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "date": "2026-09-21",
+    "answer": "JULEP",
+    "hops": [
+      {
+        "language": "Persian",
+        "form": "gulab",
+        "meaning": "sweet drink; rose water"
+      },
+      {
+        "language": "Arabic",
+        "form": "julab",
+        "meaning": "rose water drink"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "julapium",
+        "meaning": "syrupy medicinal drink"
+      },
+      {
+        "language": "Old French",
+        "form": "julep",
+        "meaning": "medicinal syrup"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "date": "2026-09-22",
+    "answer": "LILAC",
+    "hops": [
+      {
+        "language": "Persian",
+        "form": "nilak",
+        "meaning": "bluish"
+      },
+      {
+        "language": "Arabic",
+        "form": "lilak",
+        "meaning": "lilac, bluish flower"
+      },
+      {
+        "language": "Turkish",
+        "form": "leylak",
+        "meaning": "lilac tree"
+      },
+      {
+        "language": "Spanish",
+        "form": "lilac",
+        "meaning": "lilac"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "date": "2026-09-23",
+    "answer": "LIME",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*(s)lei-",
+        "meaning": "slimy, sticky"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*leimaz",
+        "meaning": "birdlime, sticky substance"
+      },
+      {
+        "language": "Old English",
+        "form": "lim",
+        "meaning": "sticky substance, mortar, glue"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "date": "2026-09-24",
+    "answer": "LUTE",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "al-'ud",
+        "meaning": "the wood; the Arabian lute"
+      },
+      {
+        "language": "Old Provençal",
+        "form": "laut",
+        "meaning": "lute (misread with 'al' attached)"
+      },
+      {
+        "language": "Old French",
+        "form": "lut",
+        "meaning": "stringed instrument"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "date": "2026-09-25",
+    "answer": "MASK",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "maskharah",
+        "meaning": "buffoon, mockery"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "masca",
+        "meaning": "mask, specter, nightmare"
+      },
+      {
+        "language": "Italian",
+        "form": "maschera",
+        "meaning": "covering to hide the face"
+      },
+      {
+        "language": "Old French",
+        "form": "masque",
+        "meaning": "covering to hide or guard the face"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "date": "2026-09-26",
+    "answer": "MUMMY",
+    "hops": [
+      {
+        "language": "Persian",
+        "form": "mum",
+        "meaning": "wax"
+      },
+      {
+        "language": "Persian",
+        "form": "mumiya",
+        "meaning": "asphalt"
+      },
+      {
+        "language": "Arabic",
+        "form": "mumiyah",
+        "meaning": "embalmed body"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "mumia",
+        "meaning": "medicine made from mummy tissue"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "date": "2026-09-27",
+    "answer": "MUSLIN",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "al-Mawsul",
+        "meaning": "the joined; city by Tigris ford (Mosul)"
+      },
+      {
+        "language": "Italian",
+        "form": "mussolina",
+        "meaning": "cloth made in Mosul"
+      },
+      {
+        "language": "Old French",
+        "form": "mosulin",
+        "meaning": "cloth of silk and gold"
+      },
+      {
+        "language": "Old French",
+        "form": "mousseline",
+        "meaning": "delicately woven cotton fabric"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "date": "2026-09-28",
+    "answer": "NABOB",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "na'ib",
+        "meaning": "viceroy, deputy"
+      },
+      {
+        "language": "Arabic",
+        "form": "nuwwab",
+        "meaning": "deputies (honorific plural)"
+      },
+      {
+        "language": "Hindi",
+        "form": "nabab",
+        "meaning": "Mogul provincial governor"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "date": "2026-09-29",
+    "answer": "REAM",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "rasama",
+        "meaning": "to collect into a bundle"
+      },
+      {
+        "language": "Arabic",
+        "form": "rizmah",
+        "meaning": "a bundle of paper"
+      },
+      {
+        "language": "Spanish",
+        "form": "resma",
+        "meaning": "ream of paper"
+      },
+      {
+        "language": "Old French",
+        "form": "reyme",
+        "meaning": "ream of paper"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "date": "2026-09-30",
+    "answer": "SAFFRON",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "az-za'faran",
+        "meaning": "the saffron crocus"
+      },
+      {
+        "language": "Latin",
+        "form": "safranum",
+        "meaning": "saffron"
+      },
+      {
+        "language": "Old French",
+        "form": "safran",
+        "meaning": "saffron spice and color"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "date": "2026-10-01",
+    "answer": "SCARLET",
+    "hops": [
+      {
+        "language": "Old High German",
+        "form": "scarlachen",
+        "meaning": "sheared cloth"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "scarlatum",
+        "meaning": "scarlet, cloth of scarlet"
+      },
+      {
+        "language": "Old French",
+        "form": "escarlate",
+        "meaning": "top-quality fabric, scarlet color"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "date": "2026-10-02",
+    "answer": "SEQUIN",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "sikka",
+        "meaning": "a minting die, hence coined money"
+      },
+      {
+        "language": "Italian",
+        "form": "zecca",
+        "meaning": "a mint (where coins are made)"
+      },
+      {
+        "language": "Italian",
+        "form": "zecchino",
+        "meaning": "a Venetian gold coin"
+      },
+      {
+        "language": "Old French",
+        "form": "sequin",
+        "meaning": "a gold coin"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "date": "2026-10-03",
+    "answer": "SHERBET",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "shariba",
+        "meaning": "he drank"
+      },
+      {
+        "language": "Persian",
+        "form": "sharbat",
+        "meaning": "a cooling fruit drink"
+      },
+      {
+        "language": "Turkish",
+        "form": "serbet",
+        "meaning": "sweet diluted drink"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "date": "2026-10-04",
+    "answer": "SPINACH",
+    "hops": [
+      {
+        "language": "Persian",
+        "form": "aspanakh",
+        "meaning": "spinach"
+      },
+      {
+        "language": "Arabic",
+        "form": "isbanakh",
+        "meaning": "spinach"
+      },
+      {
+        "language": "Old Provençal",
+        "form": "espinarc",
+        "meaning": "spinach"
+      },
+      {
+        "language": "Old French",
+        "form": "espinache",
+        "meaning": "spinach"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "date": "2026-10-05",
+    "answer": "TALISMAN",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "telos",
+        "meaning": "end, fulfillment, completion"
+      },
+      {
+        "language": "Greek",
+        "form": "telein",
+        "meaning": "perform religious rites, pay"
+      },
+      {
+        "language": "Greek",
+        "form": "telesma",
+        "meaning": "consecration, religious rite"
+      },
+      {
+        "language": "Arabic",
+        "form": "tilsam",
+        "meaning": "magical charm or figure"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "date": "2026-10-06",
+    "answer": "TAMBOURINE",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "tunbur",
+        "meaning": "a long-necked lute or guitar"
+      },
+      {
+        "language": "Old French",
+        "form": "tabour",
+        "meaning": "a drum"
+      },
+      {
+        "language": "French",
+        "form": "tambour",
+        "meaning": "drum, altered by the Arabic word"
+      },
+      {
+        "language": "French",
+        "form": "tambourin",
+        "meaning": "long narrow drum of Provence"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "date": "2026-10-07",
+    "answer": "AMBER",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "'anbar",
+        "meaning": "ambergris, sperm-whale intestinal secretion"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "ambar",
+        "meaning": "ambergris used in perfume"
+      },
+      {
+        "language": "Old French",
+        "form": "ambre",
+        "meaning": "ambergris; later Baltic fossil resin"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "date": "2026-10-08",
+    "answer": "AZURE",
+    "hops": [
+      {
+        "language": "Persian",
+        "form": "lajward",
+        "meaning": "lapis lazuli, named for a place in Turkestan"
+      },
+      {
+        "language": "Greek",
+        "form": "lazour",
+        "meaning": "the blue stone"
+      },
+      {
+        "language": "Latin",
+        "form": "lazur",
+        "meaning": "azure stone (the l- misread as an article)"
+      },
+      {
+        "language": "Old French",
+        "form": "azur",
+        "meaning": "sky-blue color"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "date": "2026-10-09",
+    "answer": "CAMPHOR",
+    "hops": [
+      {
+        "language": "Malay",
+        "form": "kapur",
+        "meaning": "camphor tree"
+      },
+      {
+        "language": "Sanskrit",
+        "form": "karpuram",
+        "meaning": "camphor"
+      },
+      {
+        "language": "Arabic",
+        "form": "kafur",
+        "meaning": "camphor"
+      },
+      {
+        "language": "Old French",
+        "form": "camphre",
+        "meaning": "camphor"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "date": "2026-10-10",
+    "answer": "CRIMSON",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "qirmizī",
+        "meaning": "crimson dye from the kermes insect"
+      },
+      {
+        "language": "Italian",
+        "form": "cremesi",
+        "meaning": "crimson color; cochineal dye"
+      },
+      {
+        "language": "Old French",
+        "form": "cramoisin",
+        "meaning": "deep purplish-red cloth"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "date": "2026-10-11",
+    "answer": "LACQUER",
+    "hops": [
+      {
+        "language": "Persian",
+        "form": "lak",
+        "meaning": "resinous substance"
+      },
+      {
+        "language": "Arabic",
+        "form": "lakk",
+        "meaning": "resin, lac"
+      },
+      {
+        "language": "Portuguese",
+        "form": "lacre",
+        "meaning": "sealing wax"
+      },
+      {
+        "language": "French",
+        "form": "lacre",
+        "meaning": "kind of sealing wax"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "date": "2026-10-12",
+    "answer": "MOSQUE",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "sajada",
+        "meaning": "he worshipped, he prostrated"
+      },
+      {
+        "language": "Arabic",
+        "form": "masjid",
+        "meaning": "place of worship"
+      },
+      {
+        "language": "Spanish",
+        "form": "mesquita",
+        "meaning": "mosque"
+      },
+      {
+        "language": "Italian",
+        "form": "moschea",
+        "meaning": "mosque"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "date": "2026-10-13",
+    "answer": "SULTAN",
+    "hops": [
+      {
+        "language": "Aramaic",
+        "form": "shultana",
+        "meaning": "power"
+      },
+      {
+        "language": "Arabic",
+        "form": "sultan",
+        "meaning": "power, dominion"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "sultanus",
+        "meaning": "Muslim ruler"
+      },
+      {
+        "language": "Old French",
+        "form": "souldan",
+        "meaning": "sovereign, ruler"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "date": "2026-10-14",
+    "answer": "CALIBER",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*kwo-",
+        "meaning": "stem of relative and interrogative pronouns"
+      },
+      {
+        "language": "Latin",
+        "form": "libra",
+        "meaning": "balance, scales, a unit of weight"
+      },
+      {
+        "language": "Latin",
+        "form": "qua libra",
+        "meaning": "of what weight"
+      },
+      {
+        "language": "Old French",
+        "form": "calibre",
+        "meaning": "inside diameter of a gun barrel"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "date": "2026-10-15",
+    "answer": "CHESS",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "chaturanga",
+        "meaning": "four members of an army"
+      },
+      {
+        "language": "Persian",
+        "form": "chatrang",
+        "meaning": "the game of chess"
+      },
+      {
+        "language": "Arabic",
+        "form": "shatranj",
+        "meaning": "chess"
+      },
+      {
+        "language": "Old French",
+        "form": "esches",
+        "meaning": "chessmen, checkmate"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "date": "2026-10-16",
+    "answer": "GENIE",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*gene-*",
+        "meaning": "give birth, beget"
+      },
+      {
+        "language": "Latin",
+        "form": "genius",
+        "meaning": "guardian spirit watching over each person"
+      },
+      {
+        "language": "Arabic",
+        "form": "jinni",
+        "meaning": "a jinn, supernatural being"
+      },
+      {
+        "language": "Old French",
+        "form": "génie",
+        "meaning": "tutelary spirit"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "date": "2026-10-17",
+    "answer": "HAREM",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "harama",
+        "meaning": "he guarded, forbade"
+      },
+      {
+        "language": "Arabic",
+        "form": "haram",
+        "meaning": "something forbidden or kept safe"
+      },
+      {
+        "language": "Turkish",
+        "form": "harem",
+        "meaning": "women's quarters of a house"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "date": "2026-10-18",
+    "answer": "KISMET",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "qasama",
+        "meaning": "he divided"
+      },
+      {
+        "language": "Arabic",
+        "form": "qismah",
+        "meaning": "portion, lot, fate"
+      },
+      {
+        "language": "Turkish",
+        "form": "qismet",
+        "meaning": "fate, destiny"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "date": "2026-10-19",
+    "answer": "PASHA",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*poti-",
+        "meaning": "powerful; lord"
+      },
+      {
+        "language": "Old Persian",
+        "form": "pati-",
+        "meaning": "master"
+      },
+      {
+        "language": "Turkish",
+        "form": "bash",
+        "meaning": "head, chief"
+      },
+      {
+        "language": "Turkish",
+        "form": "pasha",
+        "meaning": "high-ranking officer"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "date": "2026-10-20",
+    "answer": "SHERBET",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "shariba",
+        "meaning": "he drank"
+      },
+      {
+        "language": "Arabic",
+        "form": "sharba(t)",
+        "meaning": "a drink"
+      },
+      {
+        "language": "Persian",
+        "form": "sharbat",
+        "meaning": "a cooling fruit drink"
+      },
+      {
+        "language": "Turkish",
+        "form": "serbet",
+        "meaning": "sweet iced drink"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "date": "2026-10-21",
+    "answer": "SHRUB",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*sker-",
+        "meaning": "to cut"
+      },
+      {
+        "language": "Proto-Indo-European",
+        "form": "*(s)kerb-",
+        "meaning": "rough plant (extended form of 'to cut')"
+      },
+      {
+        "language": "Old English",
+        "form": "scrybb",
+        "meaning": "brushwood, shrubbery"
+      },
+      {
+        "language": "Middle English",
+        "form": "shrubbe",
+        "meaning": "low woody bush"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "date": "2026-10-22",
+    "answer": "SYRUP",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "shariba",
+        "meaning": "he drank"
+      },
+      {
+        "language": "Arabic",
+        "form": "sharab",
+        "meaning": "beverage, wine; something drunk"
+      },
+      {
+        "language": "Old French",
+        "form": "sirop",
+        "meaning": "sugared drink"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "date": "2026-10-23",
+    "answer": "MUMMY",
+    "hops": [
+      {
+        "language": "Persian",
+        "form": "mum",
+        "meaning": "wax"
+      },
+      {
+        "language": "Persian",
+        "form": "mumiya",
+        "meaning": "asphalt, bitumen"
+      },
+      {
+        "language": "Arabic",
+        "form": "mumiyah",
+        "meaning": "embalmed body"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "mumia",
+        "meaning": "medicine made from mummy tissue"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "date": "2026-10-24",
+    "answer": "CHESS",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "chaturanga",
+        "meaning": "four members of an army"
+      },
+      {
+        "language": "Persian",
+        "form": "chatrang",
+        "meaning": "the game of chess"
+      },
+      {
+        "language": "Arabic",
+        "form": "shatranj",
+        "meaning": "chess"
+      },
+      {
+        "language": "Old French",
+        "form": "esches",
+        "meaning": "chessmen"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "date": "2026-10-25",
+    "answer": "ROOK",
+    "hops": [
+      {
+        "language": "Hindi",
+        "form": "rath",
+        "meaning": "chariot"
+      },
+      {
+        "language": "Persian",
+        "form": "rukh",
+        "meaning": "name for the chess piece"
+      },
+      {
+        "language": "Arabic",
+        "form": "rukhkh",
+        "meaning": "the chess piece"
+      },
+      {
+        "language": "Old French",
+        "form": "roc",
+        "meaning": "the corner chess piece"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "date": "2026-10-26",
+    "answer": "QUEEN",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*gwen-",
+        "meaning": "woman"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*kwoeniz",
+        "meaning": "wife"
+      },
+      {
+        "language": "Old English",
+        "form": "cwen",
+        "meaning": "woman, wife, female ruler"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "date": "2026-10-27",
+    "answer": "CASTLE",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*kes-",
+        "meaning": "to cut"
+      },
+      {
+        "language": "Latin",
+        "form": "castrum",
+        "meaning": "fort, fortified place"
+      },
+      {
+        "language": "Latin",
+        "form": "castellum",
+        "meaning": "little fort, citadel"
+      },
+      {
+        "language": "Old French",
+        "form": "castel",
+        "meaning": "fortified stronghold"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "date": "2026-10-28",
+    "answer": "GAMBIT",
+    "hops": [
+      {
+        "language": "Late Latin",
+        "form": "gamba",
+        "meaning": "horse's hock or leg"
+      },
+      {
+        "language": "Italian",
+        "form": "gambetto",
+        "meaning": "a tripping up in wrestling"
+      },
+      {
+        "language": "Spanish",
+        "form": "gambito",
+        "meaning": "chess pawn sacrifice"
+      },
+      {
+        "language": "Old French",
+        "form": "gambit",
+        "meaning": "chess opening move"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "date": "2026-10-29",
+    "answer": "STALEMATE",
+    "hops": [
+      {
+        "language": "Old High German",
+        "form": "stal",
+        "meaning": "standing place"
+      },
+      {
+        "language": "Old French",
+        "form": "estal",
+        "meaning": "fixed position; stall of a stable"
+      },
+      {
+        "language": "Anglo-French",
+        "form": "estaler",
+        "meaning": "to bring to a standstill"
+      },
+      {
+        "language": "Middle English",
+        "form": "stale",
+        "meaning": "stalemate position"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "date": "2026-10-30",
+    "answer": "BLITZ",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*bhel-*",
+        "meaning": "to shine, flash, burn"
+      },
+      {
+        "language": "Old High German",
+        "form": "blecchazzen",
+        "meaning": "to flash, lighten"
+      },
+      {
+        "language": "Middle High German",
+        "form": "blicze",
+        "meaning": "lightning"
+      },
+      {
+        "language": "German",
+        "form": "Blitzkrieg",
+        "meaning": "lightning war"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "date": "2026-10-31",
+    "answer": "ERSATZ",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*sed-",
+        "meaning": "to sit"
+      },
+      {
+        "language": "Old High German",
+        "form": "irsezzen",
+        "meaning": "to replace, set in place of"
+      },
+      {
+        "language": "German",
+        "form": "Ersatz",
+        "meaning": "compensation, replacement, substitute"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "date": "2026-11-01",
+    "answer": "KINDERGARTEN",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*gher-",
+        "meaning": "to grasp, enclose"
+      },
+      {
+        "language": "German",
+        "form": "Garten",
+        "meaning": "garden"
+      },
+      {
+        "language": "German",
+        "form": "Kinder-Garten",
+        "meaning": "garden of children"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "date": "2026-11-02",
+    "answer": "DELICATESSEN",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "delicere",
+        "meaning": "to allure, entice"
+      },
+      {
+        "language": "Latin",
+        "form": "delicatus",
+        "meaning": "alluring, delightful, dainty"
+      },
+      {
+        "language": "French",
+        "form": "délicatesse",
+        "meaning": "a delicacy, fine food"
+      },
+      {
+        "language": "German",
+        "form": "delikatessen",
+        "meaning": "delicacies, fine foods"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "date": "2026-11-03",
+    "answer": "PRETZEL",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "brakhion",
+        "meaning": "an arm"
+      },
+      {
+        "language": "Latin",
+        "form": "bracchium",
+        "meaning": "an arm, a forearm"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "*brachitella",
+        "meaning": "biscuit shaped like folded arms"
+      },
+      {
+        "language": "Old High German",
+        "form": "brezitella",
+        "meaning": "knotted baked biscuit"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "date": "2026-11-04",
+    "answer": "POODLE",
+    "hops": [
+      {
+        "language": "Low German",
+        "form": "Pudel",
+        "meaning": "puddle; to splash"
+      },
+      {
+        "language": "German",
+        "form": "Pudelhund",
+        "meaning": "water dog"
+      },
+      {
+        "language": "German",
+        "form": "Pudel",
+        "meaning": "shortened name for the water dog"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "date": "2026-11-05",
+    "answer": "DACHSHUND",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*teks-",
+        "meaning": "to weave, to fabricate, to build"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*thahsuz",
+        "meaning": "badger, the animal that builds"
+      },
+      {
+        "language": "Old High German",
+        "form": "dahs",
+        "meaning": "badger"
+      },
+      {
+        "language": "German",
+        "form": "Dachshund",
+        "meaning": "badger dog"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "date": "2026-11-06",
+    "answer": "HAMSTER",
+    "hops": [
+      {
+        "language": "Old Church Slavonic",
+        "form": "chomestoru",
+        "meaning": "hamster"
+      },
+      {
+        "language": "Middle High German",
+        "form": "hamastra",
+        "meaning": "hamster"
+      },
+      {
+        "language": "German",
+        "form": "Hamster",
+        "meaning": "hamster"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "date": "2026-11-07",
+    "answer": "WALTZ",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*wel-*",
+        "meaning": "to turn, revolve"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*walt-",
+        "meaning": "to roll, turn over"
+      },
+      {
+        "language": "Old High German",
+        "form": "walzan",
+        "meaning": "to turn, roll"
+      },
+      {
+        "language": "German",
+        "form": "Waltzer",
+        "meaning": "one who rolls or dances"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "date": "2026-11-08",
+    "answer": "ZEITGEIST",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*gheis-",
+        "meaning": "excitement, amazement, fear"
+      },
+      {
+        "language": "Proto-West Germanic",
+        "form": "*gaistaz",
+        "meaning": "spirit, ghost"
+      },
+      {
+        "language": "German",
+        "form": "Geist",
+        "meaning": "spirit, ghost"
+      },
+      {
+        "language": "German",
+        "form": "Zeitgeist",
+        "meaning": "spirit of the age, time-spirit"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "date": "2026-11-09",
+    "answer": "DOPPELGANGER",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*dwo-",
+        "meaning": "two"
+      },
+      {
+        "language": "Latin",
+        "form": "duplus",
+        "meaning": "twofold, twice as much"
+      },
+      {
+        "language": "Old French",
+        "form": "doble",
+        "meaning": "double; two-faced, deceitful"
+      },
+      {
+        "language": "German",
+        "form": "Doppelgänger",
+        "meaning": "double-goer, ghostly double"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "date": "2026-11-10",
+    "answer": "POLTERGEIST",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*bhel-*",
+        "meaning": "to sound, ring, roar"
+      },
+      {
+        "language": "German",
+        "form": "poltern",
+        "meaning": "make noise, rattle"
+      },
+      {
+        "language": "German",
+        "form": "Geist",
+        "meaning": "ghost, spirit"
+      },
+      {
+        "language": "German",
+        "form": "Poltergeist",
+        "meaning": "noisy ghost"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "date": "2026-11-11",
+    "answer": "ANGST",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*angh-",
+        "meaning": "tight, painfully constricted"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*angustu-",
+        "meaning": "narrowness, constriction"
+      },
+      {
+        "language": "Old High German",
+        "form": "angust",
+        "meaning": "fear, anxiety"
+      },
+      {
+        "language": "German",
+        "form": "Angst",
+        "meaning": "neurotic fear, dread, remorse"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "date": "2026-11-12",
+    "answer": "MUESLI",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*mad-",
+        "meaning": "moist, wet; of food qualities"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*mod-sa-",
+        "meaning": "soft, mushy food"
+      },
+      {
+        "language": "Old High German",
+        "form": "muos",
+        "meaning": "meal, mush-like food"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "date": "2026-11-13",
+    "answer": "STRUDEL",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*ser-",
+        "meaning": "to run, flow"
+      },
+      {
+        "language": "Old High German",
+        "form": "stredan",
+        "meaning": "to bubble, boil, whirl"
+      },
+      {
+        "language": "German",
+        "form": "Strudel",
+        "meaning": "eddy, whirlpool"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "date": "2026-11-14",
+    "answer": "QUARTZ",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*(s)twer-",
+        "meaning": "to grasp, hold; hard"
+      },
+      {
+        "language": "Old Church Slavonic",
+        "form": "tvrudu",
+        "meaning": "hard"
+      },
+      {
+        "language": "Middle High German",
+        "form": "twarc",
+        "meaning": "rock crystal"
+      },
+      {
+        "language": "German",
+        "form": "Quarz",
+        "meaning": "rock crystal"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "date": "2026-11-15",
+    "answer": "NICKEL",
+    "hops": [
+      {
+        "language": "German",
+        "form": "Nikolaus",
+        "meaning": "the proper name Nicholas"
+      },
+      {
+        "language": "German",
+        "form": "Nickel",
+        "meaning": "goblin, rascal, fool"
+      },
+      {
+        "language": "German",
+        "form": "Kupfernickel",
+        "meaning": "copper goblin (deceptive ore)"
+      },
+      {
+        "language": "Swedish",
+        "form": "kopparnickel",
+        "meaning": "copper-colored ore yielding no copper"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "date": "2026-11-16",
+    "answer": "COBALT",
+    "hops": [
+      {
+        "language": "Middle High German",
+        "form": "kobe",
+        "meaning": "hut, shed"
+      },
+      {
+        "language": "Middle High German",
+        "form": "hold",
+        "meaning": "gracious, friendly (a euphemism for a troublesome spirit)"
+      },
+      {
+        "language": "German",
+        "form": "kobold",
+        "meaning": "household goblin that spoiled miners' ore"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "date": "2026-11-17",
+    "answer": "ZINC",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*denk-",
+        "meaning": "to bite"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*teng-",
+        "meaning": "tine, prong"
+      },
+      {
+        "language": "Old High German",
+        "form": "zint",
+        "meaning": "a point, jag"
+      },
+      {
+        "language": "German",
+        "form": "Zink",
+        "meaning": "the metal (after its crystal points)"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "date": "2026-11-18",
+    "answer": "FELDSPAR",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*pele-",
+        "meaning": "flat; to spread"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*felthan",
+        "meaning": "flat land"
+      },
+      {
+        "language": "German",
+        "form": "Feldspath",
+        "meaning": "field-spar, a non-metallic mineral"
       }
     ]
   }

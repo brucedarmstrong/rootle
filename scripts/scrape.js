@@ -97,7 +97,7 @@ Rules for hops:
 - "form": the word/root as written in that language; use *asterisks* for reconstructed PIE roots (e.g., *sal-*)
 - "meaning": brief and vivid — what the form actually meant (under 10 words)
 - Skip redundant near-duplicates; prefer hops that show a surprising shift in meaning or language
-- suitable = the word is common in everyday English AND the origin is genuinely surprising AND there are 2–4 clear, interesting hops`;
+- suitable = the word is common in everyday English AND the origin is genuinely surprising AND there are 3–4 clear, interesting hops (words with only 2 hops are NOT suitable)`;
 
 async function extractHops(word, prose) {
   const msg = await client.messages.create({
@@ -155,7 +155,7 @@ async function main() {
       results.push({ word: word.toUpperCase(), suitable, reason, hops, prose });
       fs.writeFileSync(outPath, JSON.stringify(results, null, 2));
 
-      const mark = suitable && hops.length >= 2 ? '✓' : '–';
+      const mark = suitable && hops.length >= 3 ? '✓' : '–';
       console.log(`${mark} ${suitable ? `suitable (${hops.length} hops)` : `skip: ${reason}`}`);
       newCount++;
     } catch (err) {
