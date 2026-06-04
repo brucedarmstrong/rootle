@@ -494,6 +494,7 @@ async function init() {
     if (e.target === $('modal-overlay')) hideModal();
   });
 
+  $('result-close').addEventListener('click', () => $('result-overlay').classList.add('hidden'));
   $('result-overlay').addEventListener('click', e => {
     if (e.target === $('result-overlay')) $('result-overlay').classList.add('hidden');
   });
