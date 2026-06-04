@@ -48,12 +48,20 @@ function langColor(lang) {
 }
 
 // ── Persistence ───────────────────────────────────────────────────────────────
+function freshState(date) {
+  return { date, puzzleId: puzzle.id, hopsVisible: 1, guesses: [], solved: false, lost: false };
+}
+
 function loadGameState(date) {
   try {
     const raw = localStorage.getItem(KEY_GAME(date));
-    if (raw) return JSON.parse(raw);
+    if (raw) {
+      const saved = JSON.parse(raw);
+      // Discard save if it belongs to a different puzzle (after a re-order)
+      if (saved.puzzleId === puzzle.id) return saved;
+    }
   } catch {}
-  return { date, hopsVisible: 1, guesses: [], solved: false, lost: false };
+  return freshState(date);
 }
 
 function saveGameState() {
