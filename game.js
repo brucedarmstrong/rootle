@@ -225,7 +225,9 @@ function buildShareText() {
     grid += `${emoji.repeat(bars)}  ${label}\n`;
   }
 
-  return `Rootle #${puzzle.id} (${score})\n\n${grid}\nhttps://brucearmstrong.net/rootle/`;
+  const challengeUrl = `https://brucearmstrong.net/rootle/?puzzle=${puzzle.id}`;
+  const callout = state.solved ? 'Can you beat me?' : 'Think you can do better?';
+  return `Rootle #${puzzle.id} (${score})\n\n${grid}\n${callout}\n${challengeUrl}`;
 }
 
 function renderShareGrid() {
@@ -461,6 +463,13 @@ function showArchive() {
   });
 }
 
+// ── Load puzzle by ID (challenge links) ───────────────────────────────────────
+function loadPuzzleById(id) {
+  const p = puzzles.find(p => p.id === Number(id));
+  if (p) loadPuzzleForDate(p.date);
+  else   loadPuzzleForDate(todayStr());
+}
+
 // ── Load puzzle for a date ────────────────────────────────────────────────────
 function loadPuzzleForDate(date) {
   activeDate = date;
@@ -545,8 +554,10 @@ async function init() {
     if (e.target === $('result-overlay')) $('result-overlay').classList.add('hidden');
   });
 
-  // Load today's puzzle
-  loadPuzzleForDate(todayStr());
+  // Load puzzle — respect ?puzzle=N challenge links, else today's
+  const urlId = new URLSearchParams(location.search).get('puzzle');
+  if (urlId) loadPuzzleById(urlId);
+  else       loadPuzzleForDate(todayStr());
 
   // Show help on first visit
   if (!localStorage.getItem(KEY_SEEN_HELP)) {
