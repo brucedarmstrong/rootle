@@ -195,7 +195,7 @@ function buildShareText() {
     grid += `${emoji} ${label}\n`;
   }
 
-  return `Rootle #${puzzle.id} (${score})\n\n${grid}\nrootle.game`;
+  return `Rootle #${puzzle.id} (${score})\n\n${grid}\nhttps://brucearmstrong.net/rootle/`;
 }
 
 function renderShareGrid() {
