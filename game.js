@@ -1,5 +1,11 @@
 'use strict';
 
+// ── Theme ─────────────────────────────────────────────────────────────────────
+(function initTheme() {
+  const saved = localStorage.getItem('rootle_theme');
+  if (saved) document.documentElement.dataset.theme = saved;
+})();
+
 // ── Config ────────────────────────────────────────────────────────────────────
 const LAUNCH_DATE    = '2026-06-03';
 const KEY_GAME       = date => `rootle_game_${date}`;
@@ -466,6 +472,22 @@ async function init() {
     $('chain-container').innerHTML = '<p style="color:var(--lose);padding:16px">Failed to load puzzles. Refresh to try again.</p>';
     return;
   }
+
+  // Theme toggle
+  function isDark() {
+    const t = document.documentElement.dataset.theme;
+    return t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme: dark)').matches);
+  }
+  function updateThemeBtn() {
+    $('btn-theme').textContent = isDark() ? '☀️' : '🌙';
+  }
+  $('btn-theme').addEventListener('click', () => {
+    const next = isDark() ? 'light' : 'dark';
+    document.documentElement.dataset.theme = next;
+    localStorage.setItem('rootle_theme', next);
+    updateThemeBtn();
+  });
+  updateThemeBtn();
 
   // Header buttons
   $('btn-help').addEventListener('click', showHelp);
