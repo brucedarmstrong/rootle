@@ -193,6 +193,27 @@ function renderInputVisibility() {
 }
 
 // ── Share ─────────────────────────────────────────────────────────────────────
+// One emoji + color per hop position (independent of outcome)
+const HOP_EMOJI  = ['🟨', '🟩', '🟧', '🟥', '🟪'];
+const HOP_COLOR  = ['#fbbf24', '#4ade80', '#fb923c', '#f87171', '#c084fc'];
+const BASE_BARS  = 5; // squares on the root row; grows by 1 per hop
+
+function shareRowParts(i) {
+  const hopCount   = puzzle.hops.length;
+  const wrongCount = state.guesses.length;
+  const solvedHere = state.solved && i === wrongCount;
+  const reached    = i <= wrongCount;
+
+  const emoji  = reached ? HOP_EMOJI[Math.min(i, HOP_EMOJI.length - 1)] : '⬛';
+  const bars   = BASE_BARS + i;
+  const label  = solvedHere          ? `Solved in ${wrongCount + 1}!`
+               : !state.solved && i === hopCount - 1 && reached ? 'X'
+               : i === 0             ? 'Root'
+               :                      `+${i} hop${i > 1 ? 's' : ''}`;
+
+  return { emoji, bars, label, color: HOP_COLOR[Math.min(i, HOP_COLOR.length - 1)], reached };
+}
+
 function buildShareText() {
   const hopCount  = puzzle.hops.length;
   const wrongCount = state.guesses.length;
@@ -200,13 +221,8 @@ function buildShareText() {
 
   let grid = '';
   for (let i = 0; i < hopCount; i++) {
-    let emoji;
-    if (state.solved && i === wrongCount) emoji = '🟩';
-    else if (i < wrongCount)              emoji = '🟨';
-    else                                  emoji = '⬛';
-
-    const label = i === 0 ? 'Root' : `+${i} hop${i > 1 ? 's' : ''}`;
-    grid += `${emoji} ${label}\n`;
+    const { emoji, bars, label } = shareRowParts(i);
+    grid += `${emoji.repeat(bars)}  ${label}\n`;
   }
 
   return `Rootle #${puzzle.id} (${score})\n\n${grid}\nhttps://brucearmstrong.net/rootle/`;
@@ -215,22 +231,22 @@ function buildShareText() {
 function renderShareGrid() {
   const container = $('share-grid');
   container.innerHTML = '';
-  const hopCount   = puzzle.hops.length;
-  const wrongCount = state.guesses.length;
 
-  for (let i = 0; i < hopCount; i++) {
-    let emoji;
-    if (state.solved && i === wrongCount) emoji = '🟩';
-    else if (i < wrongCount)              emoji = '🟨';
-    else                                  emoji = '⬛';
-
-    const label = i === 0 ? 'Root' : `+${i} hop${i > 1 ? 's' : ''}`;
+  for (let i = 0; i < puzzle.hops.length; i++) {
+    const { color, bars, label, reached } = shareRowParts(i);
 
     const row = el('div', 'share-row');
-    const eEl = el('span', 'share-emoji'); eEl.textContent = emoji;
-    const lEl = el('span', 'share-label'); lEl.textContent = label;
-    row.appendChild(eEl);
+
+    const bar = el('div', 'share-bar');
+    bar.style.width = `${bars * 14}px`;
+    bar.style.background = reached ? color : '#6b7280';
+    bar.style.opacity    = reached ? '1' : '0.35';
+    row.appendChild(bar);
+
+    const lEl = el('span', 'share-label');
+    lEl.textContent = label;
     row.appendChild(lEl);
+
     container.appendChild(row);
   }
 }
