@@ -79,6 +79,30 @@ git add puzzles.json && git commit -m "Add N new puzzles through YYYY-MM-DD"
 
 ---
 
+## Reviewing puzzles with the admin UI
+
+`admin.html` is a local-only review tool — it is not deployed to the server.
+
+1. Start the local server from the project root: `python3 -m http.server 8765`
+2. Open **http://localhost:8765/admin.html**
+3. Each puzzle shows the answer and the full hop chain
+4. Use the keyboard to review:
+   - **→ or Enter** — keep
+   - **← or Backspace** — reject
+5. To stop early, click the **💾 Save & Quit** button (top-right of the action bar) — unreviewed puzzles are treated as kept
+6. At the end (or after Save & Quit), click **Download updated puzzles.json**
+7. Copy the downloaded file to the project root, then deploy:
+
+```bash
+rsync -av puzzles.json root@brucearmstrong.net:/var/www/brucearmstrong.net/public_html/rootle/
+git add puzzles.json && git commit -m "Puzzle review pass"
+git push
+```
+
+The downloaded file has IDs and dates automatically re-sequenced to fill any gaps left by rejected puzzles.
+
+---
+
 ## Adding a puzzle manually
 
 Skip the scraper and add directly to `puzzles.json`. The `id` should be one higher than the current last entry, and the `date` one day after:

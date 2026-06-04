@@ -168,6 +168,19 @@
     }
     #btn-download:hover { background: #92400e; }
 
+    #btn-save-quit {
+      height: 52px;
+      width: 52px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: none;
+      font-size: 1.3rem;
+      cursor: pointer;
+      flex-shrink: 0;
+      color: var(--text-muted);
+    }
+    #btn-save-quit:hover { background: var(--border); color: var(--text); }
+
     #btn-restart {
       background: none;
       border: none;
@@ -207,6 +220,7 @@
       Keep
       <span class="key-hint">→ Enter</span>
     </button>
+    <button id="btn-save-quit" title="Save &amp; Quit">&#x1F4BE;</button>
   </div>
 
   <!-- Done screen -->
@@ -337,10 +351,13 @@ document.addEventListener('keydown', e => {
   if (e.key === 'ArrowLeft'  || e.key === 'Backspace' || e.key === 'Delete') reject();
 });
 
-$('btn-download').addEventListener('click', () => {
-  // Re-sequence ids and dates from the first puzzle's date
+function download() {
+  // Kept so far + all unreviewed puzzles (not yet seen = implicitly kept)
+  const unreviewed = puzzles.slice(current);
+  const all = [...kept, ...unreviewed];
+
   const startDate = new Date(puzzles[0].date + 'T00:00:00Z');
-  const cleaned = kept.map((p, i) => {
+  const cleaned = all.map((p, i) => {
     const d = new Date(startDate);
     d.setUTCDate(d.getUTCDate() + i);
     return { ...p, id: i + 1, date: d.toISOString().split('T')[0] };
@@ -351,7 +368,10 @@ $('btn-download').addEventListener('click', () => {
   a.href = URL.createObjectURL(blob);
   a.download = 'puzzles.json';
   a.click();
-});
+}
+
+$('btn-download').addEventListener('click', download);
+$('btn-save-quit').addEventListener('click', download);
 
 $('btn-restart').addEventListener('click', () => {
   kept = []; rejected = []; current = 0;
