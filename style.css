@@ -69,6 +69,13 @@ h1 {
   letter-spacing: .04em;
   color: var(--accent);
   text-transform: uppercase;
+  line-height: 1;
+}
+
+#logo {
+  height: 48px;
+  width: auto;
+  display: block;
 }
 
 #puzzle-num {
