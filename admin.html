@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rootle Admin</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    #admin-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 0;
+      border-bottom: 2px solid var(--accent);
+      flex-shrink: 0;
+      gap: 12px;
+    }
+
+    #admin-label {
+      font-size: .7rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: .1em;
+      color: var(--accent);
+    }
+
+    #admin-progress {
+      font-size: .82rem;
+      color: var(--text-muted);
+    }
+
+    #admin-counts {
+      display: flex;
+      gap: 12px;
+      font-size: .78rem;
+      font-weight: 700;
+    }
+
+    .count-keep   { color: var(--win); }
+    .count-reject { color: var(--lose); }
+
+    /* Answer reveal card */
+    .answer-card {
+      background: #1c1917;
+      color: #fff;
+      border-radius: var(--radius);
+      padding: 14px 16px;
+      margin-bottom: 4px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .answer-card .answer-word {
+      font-size: 1.5rem;
+      font-weight: 800;
+      letter-spacing: .06em;
+    }
+
+    .answer-card .answer-meta {
+      font-size: .75rem;
+      color: #a8a29e;
+    }
+
+    /* Progress bar */
+    #progress-bar-wrap {
+      height: 4px;
+      background: var(--border);
+      border-radius: 2px;
+      overflow: hidden;
+      flex: 1;
+    }
+
+    #progress-bar {
+      height: 100%;
+      background: var(--accent);
+      transition: width .3s ease;
+      border-radius: 2px;
+    }
+
+    /* Action buttons */
+    #action-bar {
+      display: flex;
+      gap: 10px;
+      padding: 12px 0 16px;
+      flex-shrink: 0;
+      border-top: 1px solid var(--border);
+    }
+
+    #btn-reject {
+      flex: 1;
+      height: 52px;
+      border: 2px solid var(--lose);
+      border-radius: var(--radius);
+      background: none;
+      color: var(--lose);
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background .15s;
+    }
+    #btn-reject:hover { background: #fef2f2; }
+
+    #btn-keep {
+      flex: 2;
+      height: 52px;
+      border: none;
+      border-radius: var(--radius);
+      background: var(--win);
+      color: #fff;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background .15s;
+    }
+    #btn-keep:hover { background: #15803d; }
+
+    .key-hint {
+      font-size: .65rem;
+      opacity: .7;
+      display: block;
+      margin-top: 2px;
+    }
+
+    /* Done screen */
+    #done-screen {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      flex: 1;
+      gap: 16px;
+      text-align: center;
+      padding: 32px 0;
+    }
+
+    #done-screen h2 { font-size: 1.4rem; color: var(--accent); }
+
+    #done-summary {
+      font-size: .9rem;
+      color: var(--text-muted);
+      line-height: 1.7;
+    }
+
+    #rejected-list {
+      background: var(--border);
+      border-radius: var(--radius);
+      padding: 12px 16px;
+      width: 100%;
+      font-size: .82rem;
+      line-height: 1.8;
+      color: var(--text-muted);
+      text-align: left;
+      max-height: 200px;
+      overflow-y: auto;
+    }
+
+    #btn-download {
+      width: 100%;
+      height: 52px;
+      border: none;
+      border-radius: var(--radius);
+      background: var(--accent);
+      color: #fff;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    #btn-download:hover { background: #92400e; }
+
+    #btn-restart {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      text-decoration: underline;
+      cursor: pointer;
+      font-size: .85rem;
+    }
+  </style>
+</head>
+<body>
+<div id="app">
+
+  <!-- Admin top bar -->
+  <div id="admin-bar">
+    <span id="admin-label">⚙ Admin</span>
+    <div id="progress-bar-wrap"><div id="progress-bar" style="width:0%"></div></div>
+    <span id="admin-progress">0 / 0</span>
+    <div id="admin-counts">
+      <span class="count-keep">✓ <span id="count-keep">0</span></span>
+      <span class="count-reject">✗ <span id="count-reject">0</span></span>
+    </div>
+  </div>
+
+  <!-- Puzzle review area -->
+  <main id="game-area" style="padding-top:12px">
+    <div id="chain-container"></div>
+  </main>
+
+  <!-- Action buttons -->
+  <div id="action-bar">
+    <button id="btn-reject">
+      Reject
+      <span class="key-hint">← Backspace</span>
+    </button>
+    <button id="btn-keep">
+      Keep
+      <span class="key-hint">→ Enter</span>
+    </button>
+  </div>
+
+  <!-- Done screen -->
+  <div id="done-screen">
+    <div style="font-size:2.5rem">🎉</div>
+    <h2>Review complete</h2>
+    <p id="done-summary"></p>
+    <div id="rejected-list"></div>
+    <button id="btn-download">Download updated puzzles.json</button>
+    <button id="btn-restart">Start over</button>
+  </div>
+
+</div>
+<script>
+'use strict';
+
+const LANG_COLORS = {
+  'Proto-Indo-European':'#6d28d9','Sanskrit':'#7c3aed','Greek':'#1d4ed8',
+  'Latin':'#b91c1c','Medieval Latin':'#9f1239','Late Latin':'#be123c',
+  'Arabic':'#047857','Old Norse':'#1e40af','Old English':'#78350f',
+  'Middle English':'#92400e','Italian':'#c2410c','Spanish':'#b45309',
+  'Old French':'#0f766e','Anglo-French':'#0e7490','French':'#155e75',
+  'default':'#374151',
+};
+
+const $ = id => document.getElementById(id);
+const el = (tag, cls) => { const e = document.createElement(tag); if (cls) e.className = cls; return e; };
+const langColor = lang => LANG_COLORS[lang] || LANG_COLORS['default'];
+
+let puzzles = [];
+let kept    = [];
+let rejected = [];
+let current = 0;
+
+async function init() {
+  const res = await fetch('puzzles.json');
+  puzzles = await res.json();
+  render();
+}
+
+function render() {
+  if (current >= puzzles.length) { showDone(); return; }
+
+  const p = puzzles[current];
+  const pct = (current / puzzles.length * 100).toFixed(1);
+
+  $('progress-bar').style.width = pct + '%';
+  $('admin-progress').textContent = `${current + 1} / ${puzzles.length}`;
+  $('count-keep').textContent   = kept.length;
+  $('count-reject').textContent = rejected.length;
+
+  const container = $('chain-container');
+  container.innerHTML = '';
+
+  // Answer card (always visible in admin mode)
+  const ans = el('div', 'answer-card');
+  ans.innerHTML = `
+    <div>
+      <div class="answer-word">${p.answer}</div>
+      <div class="answer-meta">#${p.id} &nbsp;·&nbsp; ${p.date} &nbsp;·&nbsp; ${p.hops.length} hops</div>
+    </div>`;
+  container.appendChild(ans);
+
+  // All hop cards
+  p.hops.forEach((hop, i) => {
+    const card = el('div', `hop-card${i === 0 ? ' hop-card--root' : ''}`);
+
+    if (i === 0) {
+      const lbl = el('div', 'hop-label');
+      lbl.textContent = 'Root';
+      card.appendChild(lbl);
+    }
+
+    const badge = el('span', 'lang-badge');
+    badge.style.backgroundColor = langColor(hop.language);
+    badge.textContent = hop.language;
+    card.appendChild(badge);
+
+    const form = el('div', 'hop-form');
+    form.textContent = hop.form;
+    card.appendChild(form);
+
+    const meaning = el('div', 'hop-meaning');
+    meaning.textContent = `"${hop.meaning}"`;
+    card.appendChild(meaning);
+
+    container.appendChild(card);
+  });
+}
+
+function keep() {
+  if (current >= puzzles.length) return;
+  kept.push(puzzles[current]);
+  current++;
+  render();
+}
+
+function reject() {
+  if (current >= puzzles.length) return;
+  rejected.push(puzzles[current]);
+  current++;
+  render();
+}
+
+function showDone() {
+  $('game-area').style.display   = 'none';
+  $('action-bar').style.display  = 'none';
+  $('done-screen').style.display = 'flex';
+
+  $('done-summary').textContent =
+    `Kept ${kept.length} puzzles, rejected ${rejected.length}.`;
+
+  if (rejected.length) {
+    $('rejected-list').innerHTML =
+      '<strong style="color:var(--text)">Rejected:</strong><br>' +
+      rejected.map(p => `${p.answer} (#${p.id})`).join(', ');
+  } else {
+    $('rejected-list').style.display = 'none';
+  }
+}
+
+$('btn-keep').addEventListener('click', keep);
+$('btn-reject').addEventListener('click', reject);
+
+document.addEventListener('keydown', e => {
+  if (['INPUT','TEXTAREA'].includes(document.activeElement.tagName)) return;
+  if (e.key === 'ArrowRight' || e.key === 'Enter') keep();
+  if (e.key === 'ArrowLeft'  || e.key === 'Backspace' || e.key === 'Delete') reject();
+});
+
+$('btn-download').addEventListener('click', () => {
+  // Re-sequence ids and dates from the first puzzle's date
+  const startDate = new Date(puzzles[0].date + 'T00:00:00Z');
+  const cleaned = kept.map((p, i) => {
+    const d = new Date(startDate);
+    d.setUTCDate(d.getUTCDate() + i);
+    return { ...p, id: i + 1, date: d.toISOString().split('T')[0] };
+  });
+
+  const blob = new Blob([JSON.stringify(cleaned, null, 2) + '\n'], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'puzzles.json';
+  a.click();
+});
+
+$('btn-restart').addEventListener('click', () => {
+  kept = []; rejected = []; current = 0;
+  $('game-area').style.display   = '';
+  $('action-bar').style.display  = '';
+  $('done-screen').style.display = 'none';
+  render();
+});
+
+init();
+</script>
+</body>
+</html>
