@@ -95,6 +95,15 @@ h1 {
 .icon-btn:hover { background: var(--border); color: var(--text); }
 
 /* ── Game area ────────────────────────────────────────────────────────────── */
+#tagline {
+  text-align: center;
+  font-size: .78rem;
+  color: var(--text-muted);
+  font-style: italic;
+  padding: 8px 0 0;
+  flex-shrink: 0;
+}
+
 #game-area {
   flex: 1;
   overflow-y: auto;
