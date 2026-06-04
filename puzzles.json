@@ -1,0 +1,1560 @@
+[
+  {
+    "id": 1,
+    "date": "2026-06-03",
+    "answer": "SALARY",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*sal-*",
+        "meaning": "salt"
+      },
+      {
+        "language": "Latin",
+        "form": "salarium",
+        "meaning": "salt allowance paid to soldiers"
+      },
+      {
+        "language": "Old French",
+        "form": "salaire",
+        "meaning": "wages, pay"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "date": "2026-06-04",
+    "answer": "WINDOW",
+    "hops": [
+      {
+        "language": "Old Norse",
+        "form": "vindauga",
+        "meaning": "wind eye"
+      },
+      {
+        "language": "Middle English",
+        "form": "windowe",
+        "meaning": "opening in a wall"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "date": "2026-06-05",
+    "answer": "MUSCLE",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "mus",
+        "meaning": "mouse"
+      },
+      {
+        "language": "Latin",
+        "form": "musculus",
+        "meaning": "little mouse (from the shape of a flexing bicep)"
+      },
+      {
+        "language": "Old French",
+        "form": "muscle",
+        "meaning": "tendon, sinew"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "date": "2026-06-06",
+    "answer": "DISASTER",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "astēr",
+        "meaning": "star"
+      },
+      {
+        "language": "Latin",
+        "form": "astrum",
+        "meaning": "star, heavenly body"
+      },
+      {
+        "language": "Italian",
+        "form": "disastro",
+        "meaning": "bad star, ill-fated event"
+      },
+      {
+        "language": "Old French",
+        "form": "désastre",
+        "meaning": "great misfortune"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "date": "2026-06-07",
+    "answer": "VILLAIN",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "villa",
+        "meaning": "country estate, farmhouse"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "villanus",
+        "meaning": "farm laborer, serf"
+      },
+      {
+        "language": "Old French",
+        "form": "vilain",
+        "meaning": "peasant, low-born person"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "date": "2026-06-08",
+    "answer": "CANDIDATE",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "candidus",
+        "meaning": "white, gleaming, pure"
+      },
+      {
+        "language": "Latin",
+        "form": "candidatus",
+        "meaning": "one clothed in white"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "date": "2026-06-09",
+    "answer": "HAZARD",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "az-zahr",
+        "meaning": "dice, game of chance"
+      },
+      {
+        "language": "Old Spanish",
+        "form": "azar",
+        "meaning": "unforeseen disaster, bad luck"
+      },
+      {
+        "language": "Old French",
+        "form": "hasard",
+        "meaning": "game of dice, chance"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "date": "2026-06-10",
+    "answer": "CALCULATE",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "calculus",
+        "meaning": "small stone, pebble used on an abacus"
+      },
+      {
+        "language": "Latin",
+        "form": "calculare",
+        "meaning": "to reckon, count with pebbles"
+      },
+      {
+        "language": "Old French",
+        "form": "calculer",
+        "meaning": "to figure, reckon"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "date": "2026-06-11",
+    "answer": "COMPANION",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "panis",
+        "meaning": "bread"
+      },
+      {
+        "language": "Late Latin",
+        "form": "companio",
+        "meaning": "one who shares bread with another"
+      },
+      {
+        "language": "Old French",
+        "form": "compaignon",
+        "meaning": "comrade, fellow"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "date": "2026-06-12",
+    "answer": "TRAGEDY",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "tragos",
+        "meaning": "goat"
+      },
+      {
+        "language": "Greek",
+        "form": "tragōidia",
+        "meaning": "goat song (performed at Dionysian festivals)"
+      },
+      {
+        "language": "Latin",
+        "form": "tragoedia",
+        "meaning": "tragic drama"
+      },
+      {
+        "language": "Old French",
+        "form": "tragedie",
+        "meaning": "serious drama with an unhappy ending"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "date": "2026-06-13",
+    "answer": "OSTRACIZE",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "ostrakon",
+        "meaning": "potsherd, tile, shell"
+      },
+      {
+        "language": "Greek",
+        "form": "ostrakizein",
+        "meaning": "to banish by writing a name on a pottery shard"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "date": "2026-06-14",
+    "answer": "QUARANTINE",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "quadraginta",
+        "meaning": "forty"
+      },
+      {
+        "language": "Italian",
+        "form": "quarantina",
+        "meaning": "a period of forty days"
+      },
+      {
+        "language": "Old French",
+        "form": "quarantaine",
+        "meaning": "isolation period of forty days"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "date": "2026-06-15",
+    "answer": "TREACLE",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "thēriakē",
+        "meaning": "antidote against a wild beast's bite"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "theriaca",
+        "meaning": "antidote, medicinal compound"
+      },
+      {
+        "language": "Old French",
+        "form": "triacle",
+        "meaning": "a medicinal cure-all syrup"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "date": "2026-06-16",
+    "answer": "BALLOT",
+    "hops": [
+      {
+        "language": "Italian",
+        "form": "balla",
+        "meaning": "ball"
+      },
+      {
+        "language": "Italian",
+        "form": "ballotta",
+        "meaning": "little ball used in secret voting"
+      },
+      {
+        "language": "Old French",
+        "form": "ballotte",
+        "meaning": "voting ball"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "date": "2026-06-17",
+    "answer": "SINISTER",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "sinister",
+        "meaning": "left, on the left side"
+      },
+      {
+        "language": "Old French",
+        "form": "sinistre",
+        "meaning": "unfavorable, inauspicious"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "date": "2026-06-18",
+    "answer": "ALCOHOL",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "al-kuhul",
+        "meaning": "kohl, powder for darkening eyelids"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "alcohol",
+        "meaning": "powdered ore of antimony"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "date": "2026-06-19",
+    "answer": "ALGEBRA",
+    "hops": [
+      {
+        "language": "Arabic",
+        "form": "jabara",
+        "meaning": "to reunite, reintegrate, consolidate"
+      },
+      {
+        "language": "Arabic",
+        "form": "al-jabr",
+        "meaning": "reunion of broken parts"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "algebra",
+        "meaning": "calculation by restoring and balancing"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "date": "2026-06-20",
+    "answer": "ALIBI",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*al-*",
+        "meaning": "beyond"
+      },
+      {
+        "language": "Latin",
+        "form": "alius",
+        "meaning": "another, other, different"
+      },
+      {
+        "language": "Latin",
+        "form": "alibi",
+        "meaning": "elsewhere, somewhere else"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "date": "2026-06-21",
+    "answer": "ALLIGATOR",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "lacertus",
+        "meaning": "lizard"
+      },
+      {
+        "language": "Spanish",
+        "form": "el lagarto",
+        "meaning": "the lizard (of the Indies)"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "date": "2026-06-22",
+    "answer": "AMMONIA",
+    "hops": [
+      {
+        "language": "Egyptian",
+        "form": "Amun",
+        "meaning": "hidden one, the sun-god"
+      },
+      {
+        "language": "Greek",
+        "form": "Ammon",
+        "meaning": "ram-headed god worshipped in Libya"
+      },
+      {
+        "language": "Latin",
+        "form": "sal ammoniac",
+        "meaning": "salt from near the temple of Ammon"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "date": "2026-06-23",
+    "answer": "ARTERY",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "arteria",
+        "meaning": "windpipe; air duct"
+      },
+      {
+        "language": "Latin",
+        "form": "arteria",
+        "meaning": "artery, windpipe"
+      },
+      {
+        "language": "Old French",
+        "form": "artaire",
+        "meaning": "blood vessel"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "date": "2026-06-24",
+    "answer": "BEDLAM",
+    "hops": [
+      {
+        "language": "Hebrew",
+        "form": "Beth Lehem",
+        "meaning": "house of bread"
+      },
+      {
+        "language": "Latin",
+        "form": "Bethlehem",
+        "meaning": "the town in Judea"
+      },
+      {
+        "language": "Middle English",
+        "form": "Bedlem",
+        "meaning": "London lunatic hospital"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "date": "2026-06-25",
+    "answer": "BONFIRE",
+    "hops": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*bainan",
+        "meaning": "bone, hard skeletal tissue"
+      },
+      {
+        "language": "Old English",
+        "form": "ban",
+        "meaning": "bone, tusk, part of the skeleton"
+      },
+      {
+        "language": "Middle English",
+        "form": "banefire",
+        "meaning": "a fire in which bones are burned"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "date": "2026-06-26",
+    "answer": "BUDGET",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*bhelgh-",
+        "meaning": "to swell"
+      },
+      {
+        "language": "Latin",
+        "form": "bulga",
+        "meaning": "leather bag"
+      },
+      {
+        "language": "Old French",
+        "form": "bougette",
+        "meaning": "little leather pouch"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "date": "2026-06-27",
+    "answer": "CANOPY",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "kōnōps",
+        "meaning": "mosquito, gnat"
+      },
+      {
+        "language": "Greek",
+        "form": "kōnōpeion",
+        "meaning": "couch with mosquito netting"
+      },
+      {
+        "language": "Latin",
+        "form": "conopeum",
+        "meaning": "mosquito curtain"
+      },
+      {
+        "language": "Old French",
+        "form": "conope",
+        "meaning": "bed-curtain"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "date": "2026-06-28",
+    "answer": "CANVAS",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "kannabis",
+        "meaning": "hemp"
+      },
+      {
+        "language": "Latin",
+        "form": "cannabis",
+        "meaning": "hemp"
+      },
+      {
+        "language": "Vulgar Latin",
+        "form": "*cannapaceus",
+        "meaning": "made of hemp"
+      },
+      {
+        "language": "Old French",
+        "form": "chanevaz",
+        "meaning": "hempen cloth"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "date": "2026-06-29",
+    "answer": "CARNIVAL",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "caro",
+        "meaning": "flesh, a piece of meat"
+      },
+      {
+        "language": "Latin",
+        "form": "carnelevare",
+        "meaning": "to remove meat, raise the flesh"
+      },
+      {
+        "language": "Italian",
+        "form": "carnevale",
+        "meaning": "Shrove Tuesday"
+      },
+      {
+        "language": "French",
+        "form": "carnaval",
+        "meaning": "merrymaking before Lent"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "date": "2026-06-30",
+    "answer": "CHAOS",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*ghieh-*",
+        "meaning": "to yawn, gape, be wide open"
+      },
+      {
+        "language": "Greek",
+        "form": "khaos",
+        "meaning": "abyss, vast gaping emptiness"
+      },
+      {
+        "language": "Latin",
+        "form": "chaos",
+        "meaning": "formless void at creation"
+      },
+      {
+        "language": "Old French",
+        "form": "chaos",
+        "meaning": "gaping void, empty space"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "date": "2026-07-01",
+    "answer": "CHOREOGRAPHY",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "khoros",
+        "meaning": "round dance; band of dancers"
+      },
+      {
+        "language": "Greek",
+        "form": "khoreia + graphein",
+        "meaning": "dance + to write"
+      },
+      {
+        "language": "Latin",
+        "form": "chorus",
+        "meaning": "dance in a circle; chorus of a tragedy"
+      },
+      {
+        "language": "French",
+        "form": "choréographie",
+        "meaning": "the writing of dance"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "date": "2026-07-02",
+    "answer": "CURFEW",
+    "hops": [
+      {
+        "language": "Old French",
+        "form": "cuevrefeu",
+        "meaning": "literally 'cover fire'"
+      },
+      {
+        "language": "Anglo-French",
+        "form": "coeverfu",
+        "meaning": "evening bell to extinguish fires"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "date": "2026-07-03",
+    "answer": "DENIM",
+    "hops": [
+      {
+        "language": "Gaulish",
+        "form": "nemo",
+        "meaning": "sanctuary, sacred grove"
+      },
+      {
+        "language": "Latin",
+        "form": "Nemausus",
+        "meaning": "the town later called Nîmes"
+      },
+      {
+        "language": "French",
+        "form": "serge de Nîmes",
+        "meaning": "serge cloth from Nîmes"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "date": "2026-07-04",
+    "answer": "EXCHEQUER",
+    "hops": [
+      {
+        "language": "Persian",
+        "form": "shah",
+        "meaning": "king, the principal chess piece"
+      },
+      {
+        "language": "Arabic",
+        "form": "shah",
+        "meaning": "king (in chess)"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "scaccarium",
+        "meaning": "chess board"
+      },
+      {
+        "language": "Old French",
+        "form": "eschequier",
+        "meaning": "chessboard; a check at chess"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "date": "2026-07-05",
+    "answer": "GENUINE",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*gene-",
+        "meaning": "give birth, beget"
+      },
+      {
+        "language": "Latin",
+        "form": "gignere",
+        "meaning": "to beget, produce"
+      },
+      {
+        "language": "Latin",
+        "form": "genuinus",
+        "meaning": "native, natural, innate"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "date": "2026-07-06",
+    "answer": "GYMNASIUM",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*nogw-",
+        "meaning": "naked"
+      },
+      {
+        "language": "Greek",
+        "form": "gymnos",
+        "meaning": "naked"
+      },
+      {
+        "language": "Greek",
+        "form": "gymnazein",
+        "meaning": "to train naked"
+      },
+      {
+        "language": "Latin",
+        "form": "gymnasium",
+        "meaning": "school for gymnastics"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "date": "2026-07-07",
+    "answer": "HELICOPTER",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*pet-",
+        "meaning": "to rush, to fly"
+      },
+      {
+        "language": "Greek",
+        "form": "helix + pteron",
+        "meaning": "spiral + wing"
+      },
+      {
+        "language": "French",
+        "form": "hélicoptère",
+        "meaning": "machine rising on spiral screws"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "date": "2026-07-08",
+    "answer": "HURRICANE",
+    "hops": [
+      {
+        "language": "Arawakan",
+        "form": "huracan",
+        "meaning": "god of storms / great wind"
+      },
+      {
+        "language": "Spanish",
+        "form": "huracán",
+        "meaning": "severe sea-storm"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "date": "2026-07-09",
+    "answer": "HYSTERIA",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*udero-",
+        "meaning": "abdomen, womb, stomach"
+      },
+      {
+        "language": "Greek",
+        "form": "hystera",
+        "meaning": "womb"
+      },
+      {
+        "language": "Latin",
+        "form": "hysteria",
+        "meaning": "disease thought to come from the womb"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "date": "2026-07-10",
+    "answer": "IDIOT",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "idios",
+        "meaning": "one's own, private"
+      },
+      {
+        "language": "Greek",
+        "form": "idiōtēs",
+        "meaning": "private citizen, layman"
+      },
+      {
+        "language": "Latin",
+        "form": "idiota",
+        "meaning": "ordinary person, outsider"
+      },
+      {
+        "language": "Old French",
+        "form": "idiote",
+        "meaning": "ignorant or uneducated person"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "date": "2026-07-11",
+    "answer": "INAUGURATE",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "augur",
+        "meaning": "priest who read omens from birds' flight"
+      },
+      {
+        "language": "Latin",
+        "form": "inaugurare",
+        "meaning": "install only when omens are favorable"
+      },
+      {
+        "language": "Late Latin",
+        "form": "inauguratio",
+        "meaning": "consecration under good omens"
+      },
+      {
+        "language": "Old French",
+        "form": "inauguration",
+        "meaning": "installation, consecration"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "date": "2026-07-12",
+    "answer": "INFLUENCE",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "influere",
+        "meaning": "to flow into, stream in, pour in"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "influentia",
+        "meaning": "a flowing in (of starlight upon fate)"
+      },
+      {
+        "language": "Old French",
+        "form": "influence",
+        "meaning": "emanation from the stars shaping destiny"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "date": "2026-07-13",
+    "answer": "INOCULATE",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*okw-",
+        "meaning": "to see"
+      },
+      {
+        "language": "Latin",
+        "form": "oculus",
+        "meaning": "eye, also a plant's bud"
+      },
+      {
+        "language": "Latin",
+        "form": "inoculare",
+        "meaning": "to graft a bud into a plant"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "date": "2026-07-14",
+    "answer": "INSULT",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*sel-",
+        "meaning": "to leap, jump"
+      },
+      {
+        "language": "Latin",
+        "form": "salire",
+        "meaning": "to leap"
+      },
+      {
+        "language": "Latin",
+        "form": "insultare",
+        "meaning": "to leap upon, assail"
+      },
+      {
+        "language": "Old French",
+        "form": "insulter",
+        "meaning": "to leap upon; reproach"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "date": "2026-07-15",
+    "answer": "ISLAND",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*akwa-",
+        "meaning": "water"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*awjo",
+        "meaning": "thing on the water"
+      },
+      {
+        "language": "Old English",
+        "form": "igland",
+        "meaning": "island, water-land"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "date": "2026-07-16",
+    "answer": "JUBILEE",
+    "hops": [
+      {
+        "language": "Hebrew",
+        "form": "yobhel",
+        "meaning": "ram, ram's-horn trumpet"
+      },
+      {
+        "language": "Greek",
+        "form": "iobelos",
+        "meaning": "the jubilee"
+      },
+      {
+        "language": "Late Latin",
+        "form": "iubilaeus",
+        "meaning": "the jubilee year"
+      },
+      {
+        "language": "Old French",
+        "form": "jubileu",
+        "meaning": "anniversary, rejoicing"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "date": "2026-07-17",
+    "answer": "JUNGLE",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "jangala-s",
+        "meaning": "arid, sparsely treed land"
+      },
+      {
+        "language": "Hindi",
+        "form": "jangal",
+        "meaning": "desert, forest, uncultivated wasteland"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "date": "2026-07-18",
+    "answer": "LACONIC",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "Lakon",
+        "meaning": "a person from Laconia, the Spartan region"
+      },
+      {
+        "language": "Greek",
+        "form": "Lakonikos",
+        "meaning": "Laconian, of Sparta"
+      },
+      {
+        "language": "Latin",
+        "form": "Laconicus",
+        "meaning": "of Laconia"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "date": "2026-07-19",
+    "answer": "LUNATIC",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "luna",
+        "meaning": "the moon"
+      },
+      {
+        "language": "Late Latin",
+        "form": "lunaticus",
+        "meaning": "moon-struck"
+      },
+      {
+        "language": "Old French",
+        "form": "lunatique",
+        "meaning": "insane"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "date": "2026-07-20",
+    "answer": "MALARIA",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "malus",
+        "meaning": "bad, evil"
+      },
+      {
+        "language": "Latin",
+        "form": "aria",
+        "meaning": "air"
+      },
+      {
+        "language": "Italian",
+        "form": "mala aria",
+        "meaning": "bad air"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "date": "2026-07-21",
+    "answer": "MARATHON",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "marathon",
+        "meaning": "fennel; fennel-field"
+      },
+      {
+        "language": "Greek",
+        "form": "Marathōn",
+        "meaning": "Attic town, site of famous battle"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "date": "2026-07-22",
+    "answer": "MELANCHOLY",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "melankholia",
+        "meaning": "excess of black bile; sadness"
+      },
+      {
+        "language": "Late Latin",
+        "form": "melancholia",
+        "meaning": "black bile; depression"
+      },
+      {
+        "language": "Old French",
+        "form": "melancolie",
+        "meaning": "black bile; ill temper, anger"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "date": "2026-07-23",
+    "answer": "PANIC",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "panikon",
+        "meaning": "pertaining to Pan, god of woods"
+      },
+      {
+        "language": "French",
+        "form": "panique",
+        "meaning": "sudden contagious fright"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "date": "2026-07-24",
+    "answer": "PARADISE",
+    "hops": [
+      {
+        "language": "Avestan",
+        "form": "pairidaeza",
+        "meaning": "walled enclosure, hunting park"
+      },
+      {
+        "language": "Greek",
+        "form": "paradeisos",
+        "meaning": "a park; the garden of Eden"
+      },
+      {
+        "language": "Late Latin",
+        "form": "paradisus",
+        "meaning": "orchard; abode of the blessed"
+      },
+      {
+        "language": "Old French",
+        "form": "paradis",
+        "meaning": "paradise, garden of Eden"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "date": "2026-07-25",
+    "answer": "PARLIAMENT",
+    "hops": [
+      {
+        "language": "Old French",
+        "form": "parler",
+        "meaning": "to speak"
+      },
+      {
+        "language": "Old French",
+        "form": "parlement",
+        "meaning": "a speaking, talk"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "parliamentum",
+        "meaning": "formal conference, assembly"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "date": "2026-07-26",
+    "answer": "PLANET",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "planasthai",
+        "meaning": "to wander, stray"
+      },
+      {
+        "language": "Greek",
+        "form": "planētēs",
+        "meaning": "wandering star"
+      },
+      {
+        "language": "Late Latin",
+        "form": "planeta",
+        "meaning": "wandering celestial body"
+      },
+      {
+        "language": "Old French",
+        "form": "planete",
+        "meaning": "planet, wandering star"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "date": "2026-07-27",
+    "answer": "SERENDIPITY",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "Simhaladvipa",
+        "meaning": "dwelling-place of lions (island of Sri Lanka)"
+      },
+      {
+        "language": "Arabic",
+        "form": "Sarandib",
+        "meaning": "name for the island of Sri Lanka"
+      },
+      {
+        "language": "Persian",
+        "form": "Serendip",
+        "meaning": "the land in 'The Three Princes' tale"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "date": "2026-07-28",
+    "answer": "SKELETON",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*skele-*",
+        "meaning": "to parch, wither"
+      },
+      {
+        "language": "Greek",
+        "form": "skellein",
+        "meaning": "to dry up, parch"
+      },
+      {
+        "language": "Greek",
+        "form": "skeletos",
+        "meaning": "dried-up body, mummy"
+      },
+      {
+        "language": "Latin",
+        "form": "sceleton",
+        "meaning": "bony framework of the body"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "date": "2026-07-29",
+    "answer": "SLOGAN",
+    "hops": [
+      {
+        "language": "Gaelic",
+        "form": "sluagh",
+        "meaning": "army, host"
+      },
+      {
+        "language": "Gaelic",
+        "form": "sluagh-ghairm",
+        "meaning": "battle cry of Highland clans"
+      },
+      {
+        "language": "Middle English",
+        "form": "slogorne",
+        "meaning": "battle cry"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "date": "2026-07-30",
+    "answer": "SOLDIER",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "solidus",
+        "meaning": "a solid Roman gold coin"
+      },
+      {
+        "language": "Late Latin",
+        "form": "soldum",
+        "meaning": "pay, wages"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "soldarius",
+        "meaning": "one having pay"
+      },
+      {
+        "language": "Old French",
+        "form": "soldier",
+        "meaning": "one who serves in the army for pay"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "date": "2026-07-31",
+    "answer": "SYCOPHANT",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "sykon",
+        "meaning": "fig (also slang for vulva)"
+      },
+      {
+        "language": "Greek",
+        "form": "sykophantēs",
+        "meaning": "one who shows the fig; false accuser"
+      },
+      {
+        "language": "Latin",
+        "form": "sycophanta",
+        "meaning": "informer, slanderer"
+      },
+      {
+        "language": "Old French",
+        "form": "sycophante",
+        "meaning": "slanderer, talebearer"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "date": "2026-08-01",
+    "answer": "TALENT",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*tele-",
+        "meaning": "to lift, support, weigh"
+      },
+      {
+        "language": "Greek",
+        "form": "talanton",
+        "meaning": "a balance, pair of scales"
+      },
+      {
+        "language": "Latin",
+        "form": "talentum",
+        "meaning": "weight; a sum of money"
+      },
+      {
+        "language": "Old French",
+        "form": "talent",
+        "meaning": "inclination, will, desire"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "date": "2026-08-02",
+    "answer": "TANTALIZE",
+    "hops": [
+      {
+        "language": "Greek",
+        "form": "Tantalos",
+        "meaning": "mythical king punished by the gods for eternity"
+      },
+      {
+        "language": "Latin",
+        "form": "Tantalus",
+        "meaning": "the same punished king"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "date": "2026-08-03",
+    "answer": "TYPHOON",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*dheub-*",
+        "meaning": "deep, hollow"
+      },
+      {
+        "language": "Greek",
+        "form": "typhein",
+        "meaning": "to smoke"
+      },
+      {
+        "language": "Greek",
+        "form": "typhōn",
+        "meaning": "whirlwind; a giant, father of the winds"
+      },
+      {
+        "language": "Latin",
+        "form": "typhonicus",
+        "meaning": "of a violent storm"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "date": "2026-08-04",
+    "answer": "VACCINE",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "vacca",
+        "meaning": "cow"
+      },
+      {
+        "language": "Latin",
+        "form": "vaccinus",
+        "meaning": "from cows, pertaining to cows"
+      },
+      {
+        "language": "French",
+        "form": "vaccin",
+        "meaning": "matter from cowpox"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "date": "2026-08-05",
+    "answer": "VANDAL",
+    "hops": [
+      {
+        "language": "Proto-Germanic",
+        "form": "*wandljaz",
+        "meaning": "wanderer"
+      },
+      {
+        "language": "Latin",
+        "form": "Vandalus",
+        "meaning": "member of the Germanic tribe that sacked Rome"
+      },
+      {
+        "language": "Old English",
+        "form": "Wendlas",
+        "meaning": "the Vandals"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "date": "2026-08-06",
+    "answer": "VOLCANO",
+    "hops": [
+      {
+        "language": "Latin",
+        "form": "Vulcanus",
+        "meaning": "Vulcan, Roman god of fire"
+      },
+      {
+        "language": "Italian",
+        "form": "vulcano",
+        "meaning": "burning mountain"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "date": "2026-08-07",
+    "answer": "WITCH",
+    "hops": [
+      {
+        "language": "Proto-Indo-European",
+        "form": "*weg-",
+        "meaning": "to be strong, be lively"
+      },
+      {
+        "language": "Proto-Germanic",
+        "form": "*wikkjaz",
+        "meaning": "necromancer, one who wakes the dead"
+      },
+      {
+        "language": "Old English",
+        "form": "wicce",
+        "meaning": "female magician, sorceress"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "date": "2026-08-08",
+    "answer": "ZERO",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "sunya-m",
+        "meaning": "empty place, desert, naught"
+      },
+      {
+        "language": "Arabic",
+        "form": "sifr",
+        "meaning": "empty, cipher"
+      },
+      {
+        "language": "Medieval Latin",
+        "form": "zephirum",
+        "meaning": "zero, nought"
+      },
+      {
+        "language": "Italian",
+        "form": "zero",
+        "meaning": "zero"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "date": "2026-08-09",
+    "answer": "TUXEDO",
+    "hops": [
+      {
+        "language": "Munsee Delaware",
+        "form": "p'tuck-sepo",
+        "meaning": "crooked river"
+      },
+      {
+        "language": "English",
+        "form": "Tuxedo Park",
+        "meaning": "wealthy New York resort and country club"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "date": "2026-08-10",
+    "answer": "SUGAR",
+    "hops": [
+      {
+        "language": "Sanskrit",
+        "form": "sharkara",
+        "meaning": "gravel, grit; coarse crystallized cane sugar"
+      },
+      {
+        "language": "Arabic",
+        "form": "sukkar",
+        "meaning": "sugar, cane sugar"
+      },
+      {
+        "language": "Old Italian",
+        "form": "zucchero",
+        "meaning": "sugar (via trade routes)"
+      },
+      {
+        "language": "Old French",
+        "form": "sucre",
+        "meaning": "sugar"
+      }
+    ]
+  }
+]

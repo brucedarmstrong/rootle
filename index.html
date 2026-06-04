@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Daily word etymology puzzle — trace a word through history">
+  <title>Rootle</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+
+    <header>
+      <button class="icon-btn" id="btn-archive" title="Archive" aria-label="Archive">&#128197;</button>
+      <div class="header-center">
+        <h1>Rootle</h1>
+        <span id="puzzle-num"></span>
+      </div>
+      <div class="header-right">
+        <button class="icon-btn" id="btn-stats" title="Statistics" aria-label="Statistics">&#128202;</button>
+        <button class="icon-btn" id="btn-help" title="How to play" aria-label="How to play">?</button>
+      </div>
+    </header>
+
+    <main id="game-area">
+      <div id="chain-container"></div>
+      <div id="wrong-guesses"></div>
+    </main>
+
+    <div id="input-area">
+      <input
+        type="text"
+        id="guess-input"
+        placeholder="Modern English word…"
+        autocomplete="off"
+        autocorrect="off"
+        autocapitalize="off"
+        spellcheck="false"
+        maxlength="32"
+        aria-label="Your guess"
+      >
+      <button id="submit-btn" aria-label="Submit guess">&#8594;</button>
+    </div>
+
+    <!-- Result overlay -->
+    <div id="result-overlay" class="hidden" role="dialog" aria-modal="true" aria-labelledby="result-title">
+      <div id="result-card">
+        <div id="result-emoji"></div>
+        <h2 id="result-title"></h2>
+        <p id="result-answer"></p>
+        <div id="share-grid"></div>
+        <div id="result-actions">
+          <button id="share-btn">Share &#128203;</button>
+          <button id="next-btn" class="hidden">Next Puzzle &#8594;</button>
+        </div>
+        <button id="result-stats-btn" class="text-btn">Statistics &#128202;</button>
+      </div>
+    </div>
+
+    <!-- Modal (help / stats / archive) -->
+    <div id="modal-overlay" class="hidden" role="dialog" aria-modal="true">
+      <div id="modal">
+        <button id="modal-close" aria-label="Close">&#215;</button>
+        <div id="modal-content"></div>
+      </div>
+    </div>
+
+  </div>
+  <script src="game.js"></script>
+</body>
+</html>
