@@ -196,7 +196,7 @@ function renderInputVisibility() {
 // One emoji + color per hop position (independent of outcome)
 const HOP_EMOJI  = ['🟨', '🟩', '🟧', '🟥', '🟪'];
 const HOP_COLOR  = ['#fbbf24', '#4ade80', '#fb923c', '#f87171', '#c084fc'];
-const BASE_BARS  = 5; // squares on the root row; grows by 1 per hop
+const BASE_BARS  = 3; // squares on the root row; grows by 1 per hop
 
 function shareRowParts(i) {
   const hopCount   = puzzle.hops.length;
