@@ -169,7 +169,7 @@ function appendHopAnimated() {
 function renderWrongGuesses() {
   const container = $('wrong-guesses');
   container.innerHTML = '';
-  if (!state.guesses.length) return;
+  if (!state.guesses.length && !state.solved) return;
   const lbl = el('div', 'wrong-label');
   lbl.textContent = 'Previous guesses:';
   container.appendChild(lbl);
@@ -179,6 +179,11 @@ function renderWrongGuesses() {
     tag.textContent = g;
     tags.appendChild(tag);
   });
+  if (state.solved) {
+    const tag = el('span', 'wrong-tag wrong-tag--correct');
+    tag.textContent = puzzle.answer.toUpperCase();
+    tags.appendChild(tag);
+  }
   container.appendChild(tags);
 }
 
@@ -188,7 +193,7 @@ function renderInputVisibility() {
     area.classList.add('hidden');
   } else {
     area.classList.remove('hidden');
-    $('guess-input').focus();
+    $('guess-input').focus({ preventScroll: true });
   }
 }
 
@@ -489,7 +494,19 @@ function loadPuzzleForDate(date) {
 }
 
 // ── Init ──────────────────────────────────────────────────────────────────────
+function syncAppHeight() {
+  const h = window.visualViewport ? window.visualViewport.height : window.innerHeight;
+  $('app').style.height = h + 'px';
+}
+
 async function init() {
+  if (window.visualViewport) {
+    window.visualViewport.addEventListener('resize', syncAppHeight);
+  } else {
+    window.addEventListener('resize', syncAppHeight);
+  }
+  syncAppHeight();
+
   try {
     puzzles = await fetchPuzzles();
   } catch (err) {
