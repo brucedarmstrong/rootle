@@ -126,12 +126,23 @@ function getPuzzleForDate(date) {
 
 // ── Rendering ─────────────────────────────────────────────────────────────────
 function buildHopCard(hop, index, animate) {
-  const card = el('div', `hop-card${hop === puzzle.hops[0] ? ' hop-card--root' : ''}${animate ? ' hop-card--entering' : ''}`);
+  const solveHop = state.solved && index === state.guesses.length;
+  const classes = ['hop-card'];
+  if (index === 0)  classes.push('hop-card--root');
+  if (solveHop)     classes.push('hop-card--solved');
+  if (animate)      classes.push('hop-card--entering');
+  const card = el('div', classes.join(' '));
 
   if (index === 0) {
     const lbl = el('div', 'hop-label');
     lbl.textContent = 'Root';
     card.appendChild(lbl);
+  }
+
+  if (solveHop) {
+    const badge = el('div', 'hop-solve-badge');
+    badge.textContent = '✓ Solved';
+    card.appendChild(badge);
   }
 
   const badge = el('span', 'lang-badge');
@@ -153,7 +164,8 @@ function buildHopCard(hop, index, animate) {
 function renderChain() {
   const container = $('chain-container');
   container.innerHTML = '';
-  for (let i = 0; i < state.hopsVisible; i++) {
+  const count = (state.solved || state.lost) ? puzzle.hops.length : state.hopsVisible;
+  for (let i = 0; i < count; i++) {
     container.appendChild(buildHopCard(puzzle.hops[i], i, false));
   }
 }
@@ -323,6 +335,7 @@ function submitGuess() {
     state.solved = true;
     saveGameState();
     recordResult(true, guessNum);
+    renderChain();
     renderWrongGuesses();
     renderInputVisibility();
     setTimeout(showResult, 600);

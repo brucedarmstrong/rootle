@@ -175,6 +175,7 @@ h1 span {
 }
 
 .hop-card {
+  position: relative;
   background: var(--hop-bg);
   border: 1px solid var(--hop-border);
   border-radius: var(--radius);
@@ -186,6 +187,21 @@ h1 span {
 .hop-card--root {
   background: var(--root-bg);
   border-color: var(--root-border);
+}
+
+.hop-card--solved {
+  border-color: var(--win);
+}
+
+.hop-solve-badge {
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  font-size: .65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--win);
 }
 
 .hop-card--entering {
