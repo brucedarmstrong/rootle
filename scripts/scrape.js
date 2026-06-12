@@ -97,6 +97,7 @@ Rules for hops:
 - "form": the word/root as written in that language; use *asterisks* for reconstructed PIE roots (e.g., *sal-*)
 - "meaning": brief and vivid — what the form actually meant (under 10 words)
 - Skip redundant near-duplicates; prefer hops that show a surprising shift in meaning or language
+- For compound words formed by merging two roots (e.g. MALARIA from Latin "mala" + "aria"), combine them into a single hop showing the merged form and unified meaning (e.g. { "language": "Italian", "form": "mala aria", "meaning": "bad air" }). Do NOT list the component roots as separate hops.
 - suitable = the word is common in everyday English AND the origin is genuinely surprising AND there are 3–4 clear, interesting hops (words with only 2 hops are NOT suitable)`;
 
 async function extractHops(word, prose) {
