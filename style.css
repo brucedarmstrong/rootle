@@ -286,6 +286,11 @@ h1 span {
   border-color: transparent;
 }
 
+.wrong-tag--skip {
+  font-style: italic;
+  opacity: .65;
+}
+
 /* ── Input area ───────────────────────────────────────────────────────────── */
 #input-area {
   display: flex;
@@ -326,6 +331,27 @@ h1 span {
   60%      { transform: translateX(-4px); }
   80%      { transform: translateX(4px); }
 }
+
+#skip-btn {
+  height: 48px;
+  padding: 0 14px;
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-card);
+  color: var(--text-muted);
+  font-size: .8rem;
+  font-weight: 600;
+  cursor: pointer;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background .15s, color .15s, transform .1s;
+  letter-spacing: .03em;
+  white-space: nowrap;
+}
+#skip-btn:hover  { background: var(--border); color: var(--text); }
+#skip-btn:active { transform: scale(.95); }
 
 #submit-btn {
   height: 48px;
@@ -692,7 +718,10 @@ h1 span {
   font-size: 1rem;
   width: 20px;
   text-align: center;
+  color: var(--text-muted);
 }
+.archive-status--won  { color: var(--win); }
+.archive-status--lost { color: var(--lose); }
 
 .archive-date { flex: 1; color: var(--text-muted); }
 

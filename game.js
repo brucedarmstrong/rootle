@@ -187,8 +187,8 @@ function renderWrongGuesses() {
   container.appendChild(lbl);
   const tags = el('div', 'wrong-tags');
   state.guesses.forEach(g => {
-    const tag = el('span', 'wrong-tag');
-    tag.textContent = g;
+    const tag = el('span', g === null ? 'wrong-tag wrong-tag--skip' : 'wrong-tag');
+    tag.textContent = g === null ? '— skipped' : g;
     tags.appendChild(tag);
   });
   if (state.solved) {
@@ -308,6 +308,26 @@ function getNextDate(date) {
 }
 
 // ── Game actions ──────────────────────────────────────────────────────────────
+function skipHop() {
+  if (state.solved || state.lost) return;
+
+  state.guesses.push(null);
+
+  if (state.hopsVisible < puzzle.hops.length) {
+    state.hopsVisible++;
+    saveGameState();
+    renderWrongGuesses();
+    appendHopAnimated();
+  } else {
+    state.lost = true;
+    saveGameState();
+    recordResult(false, 0);
+    renderWrongGuesses();
+    renderInputVisibility();
+    setTimeout(showResult, 600);
+  }
+}
+
 function shakeInput() {
   const inp = $('guess-input');
   inp.classList.remove('shake');
@@ -388,6 +408,10 @@ function showHelp() {
       </div>
       <div class="help-step">
         <span class="step-num">4</span>
+        <p>Not sure? Hit <strong>Skip</strong> to reveal the next clue without guessing — but it costs a hop.</p>
+      </div>
+      <div class="help-step">
+        <span class="step-num">5</span>
         <p>Fewer hops used = better score. <strong>One puzzle per day.</strong></p>
       </div>
     </div>
@@ -458,10 +482,11 @@ function showArchive() {
 
   const rows = available.map(p => {
     const s   = loadGameState(p.date);
-    const icon = s.solved ? '✓' : s.lost ? '✗' : '○';
+    const icon        = s.solved ? '✓' : s.lost ? '✗' : '○';
+    const statusClass = s.solved ? ' archive-status--won' : s.lost ? ' archive-status--lost' : '';
     const cur  = p.date === activeDate ? ' archive-current' : '';
     return `<div class="archive-row${cur}" data-date="${p.date}">
-      <span class="archive-status">${icon}</span>
+      <span class="archive-status${statusClass}">${icon}</span>
       <span class="archive-date">${p.date}</span>
       <span class="archive-num">#${p.id}</span>
     </div>`;
@@ -550,6 +575,7 @@ async function init() {
 
   // Input
   $('submit-btn').addEventListener('click', submitGuess);
+  $('skip-btn').addEventListener('click', skipHop);
   $('guess-input').addEventListener('keydown', e => {
     if (e.key === 'Enter') submitGuess();
   });
