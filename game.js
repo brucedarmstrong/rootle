@@ -64,7 +64,7 @@ function loadGameState(date) {
     if (raw) {
       const saved = JSON.parse(raw);
       // Discard save if it belongs to a different puzzle (after a re-order)
-      if (saved.puzzleId === puzzle.id) return saved;
+      if (saved.puzzleId === getPuzzleForDate(date).id) return saved;
     }
   } catch {}
   return freshState(date);
